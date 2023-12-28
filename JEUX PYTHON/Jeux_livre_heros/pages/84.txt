@@ -1,0 +1,4 @@
+La porte s'ouvre sur une petite pièce confortable, meublée d'une table, de plusieurs chaises et d'une grande bibliothèque qui couvre entièrement l'un des murs. Un vieil homme à la longue barbe grise est assis à la table et sur son épaule, une petite créature ailée est accroupie. Cet animal ne mesure pas plus de six centimètres de haut. Il a deux bras et deux jambes ; sa peau a une couleur gris poussière. Il a de petites dents blanches et pointues et ses ailes sont repliées dans son dos. Le vieil homme ne dit rien lorsque vous franchissez la porte, mais il vous fait signe de vous asseoir à la table. Il tient dans sa main deux petits objets blancs qu'il agite devant vous. Vous avez le choix entre :
+Vous asseoir comme il vous y invite (rendez-vous au 204)
+Quitter la pièce et revenir au croisement (rendez-vous au 280)
+Tirer votre épée et vous ruer en avant (rendez-vous au 377)

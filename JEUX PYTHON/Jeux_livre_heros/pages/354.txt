@@ -1,0 +1,5 @@
+Vous vous trouvez au milieu d'une courbe, et vous avez le choix entre suivre le passage vers l'ouest ou vers le sud.
+Pour aller à l'ouest (rendez-vous au 308)
+Pour aller au sud (rendez-vous au 52)
+Si vous voulez essayer de découvrir des passages secrets en allant vers l'ouest (rendez-vous au 14)
+Si vous voulez essayer de découvrir des passages secrets en allant vers le sud (rendez-vous au 234)

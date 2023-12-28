@@ -1,0 +1,5 @@
+La porte s'ouvre et vous vous retrouvez dans une sorte de crypte obscure. L'endroit est vaste.
+Un autel est dressé à l'une des extrémités de la crypte, et des cercueils sont posés ça et là sur le sol.
+Il y a une porte derrière vous dans le mur situé au sud, et une autre dans le mur nord.
+Si vous désirez fouiller cette pièce (rendez-vous au 254)
+Si l'endroit vous fait peur, vous pouvez le quitter par la porte ouest (rendez-vous au 380)

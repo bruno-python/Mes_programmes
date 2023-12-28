@@ -1,0 +1,4 @@
+Vous ne voyez rien dans la pièce qui puisse vous aider dans votre combat.
+Qu'allez-vous faire ?
+Tirer votre épée, serrer les dents et partir à l'attaque (rendez-vous au 142)
+Chercher dans votre sac à dos une autre arme que vous pourriez utiliser (rendez-vous au 105)

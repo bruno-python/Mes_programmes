@@ -1,0 +1,6 @@
+Vous tentez de lutter contre le regard du tableau en utilisant divers objets de votre Liste d'Equipement, mais aucun d'entre eux ne se révèle efficace.
+Vous avez alors la possibilité d'essayer l'une des méthodes suivantes :
+Lacérer la toile du tableau avec votre épée	(rendez-vous au 388)
+Brandir l'Œil du Cyclope devant le portrait	(rendez-vous au 31)
+Le transpercer à l'aide d'un épieu (rendez-vous au 241)
+Lui jeter un morceau de Fromage	(rendez-vous au 45)

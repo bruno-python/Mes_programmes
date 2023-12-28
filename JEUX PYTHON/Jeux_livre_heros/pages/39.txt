@@ -1,0 +1,15 @@
+Votre adversaire est surpris que vous ayez disparu et, levant les mains pour les mettre en visière au-dessus de ses yeux, il scrute la pièce d'un regard intense. Il sent votre présence, mais ne sait pas exactement où vous êtes. Vous tirez votre épée et vous marchez sur lui. Il penche la tête et renifle. En le combattant, il vous faudra maintenir une certaine distance entre lui et vous car, s'il parvient à vous saisir, votre invisibilité ne vous sera plus d'aucun secours. Mais tant que vous restez inaccessible, vous bénéficiez des avantages suivants :
+
+Vous pouvez ajouter 2 points au chiffre obtenu en lançant le dé lorsque vous déterminez votre Force d'Attaque.
+
+Chaque assaut victorieux lui enlève 3 points d'ENDURANCE, car, comme il ne peut pas vous voir, il lui est impossible de se défendre efficacement.
+
+Chaque fois qu'il vous inflige une blessure, jetez un dé. Si le chiffre obtenu est impair, il vous a blessé normalement. Si ce chiffre est 2 ou 4, il ne vous a infligé qu'une blessure à 1 point. Si vous faites un 6, vous avez paré le coup et vous n'êtes pas blessé.
+
+Menez la bataille à son terme :
+
+COMBATTANT : SORCIER
+HABILETÉ   : 11
+ENDURANCE  : 18
+
+Si vous êtes vainqueur, (rendez-vous au 396).

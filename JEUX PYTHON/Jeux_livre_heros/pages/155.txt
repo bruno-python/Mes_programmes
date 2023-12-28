@@ -1,0 +1,9 @@
+La porte se fend en deux, vous parvenez à casser le panneau et à entrer.
+ Une torche est fixée à l'un des murs et éclaire une petite salle d'armes remplie d'épées, de boucliers, de casques, de poignards, de cuirasses et autres objets de même nature.
+ Vous fouillez ce dépôt d'armes mais sans rien trouver qui soit plus utile que votre épée. Pourtant, votre regard est attiré par un bouclier rond, en fer au centre duquel est gravé un croissant.
+ Si vous désirez prendre ce bouclier, il vous aidera à détourner les coups que vous porteront les créatures ennemies.
+ Désormais, si une créature vous inflige une blessure lors d'un combat pendant lequel vous utiliserez ce bouclier, vous pourrez lancer un dé.
+ Si vous faites un 6, la créature ne vous aura atteint que pour la valeur d'1 point, au lieu de 2 en temps normal.
+ Si, pour une raison quelconque, une créature ne vous infligeait qu'une blessure à un point, un 6 obtenu au dé signifierait que le coup n'a pas porté du tout.
+ Mais ce bouclier est lourd, et pour pouvoir l'emporter, il vous faudra abandonner une pièce de votre équipement.
+ Vous quittez à présent la pièce et vous suivez le couloir (rendez-vous au 300)

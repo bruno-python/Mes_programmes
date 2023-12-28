@@ -1,0 +1,9 @@
+Vous quittez la caverne en suivant un couloir long et étroit.
+Quelques centaines de mètres plus loin, il aboutit à une porte de bois légèrement entrouverte.
+Avec précaution, vous l'entrebâillez un peu plus, et vous glissez la tête par l'ouverture pour voir ce qu'il y a dans la pièce.
+Vous apercevez un vieil homme assis seul à une table. Il joue aux cartes.
+Les cheveux et la barbe gris, il semble tout à fait inoffensif.
+Qu'allez-vous faire ?
+Vous précipiter à l'intérieur, votre épée à la main, pour surprendre le vieil homme (rendez-vous au 324)
+Frapper à la porte et entrer, puis le saluer courtoisement (rendez-vous au 356)
+Vous mettre à quatre pattes et essayer de vous glisser dans la pièce sans vous faire remarquer (rendez-vous au 98)

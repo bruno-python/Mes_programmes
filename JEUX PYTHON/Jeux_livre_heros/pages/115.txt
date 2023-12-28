@@ -1,0 +1,4 @@
+Les malheureux étendus à vos pieds semblent presque heureux d'avoir été soulagés du fardeau de la vie. Et tandis que vous les contemplez, vous avez le sentiment que vous n'êtes pas seul à savoir qu'ils sont morts. Vous jetez un coup d'œil autour de la pièce et vous avez le choix entre :
+Examiner les armes posées à terre (rendez-vous au 95)
+Vous approcher du cadavre étendu dans le coin nord-est (rendez-vous au 313)
+Aller voir ce qu'il y a dans les tonneaux (rendez-vous au 330)

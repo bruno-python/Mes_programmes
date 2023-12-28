@@ -1,0 +1,3 @@
+Vous vous trouvez dans un couloir nord-sud. Au nord, le passage s'oriente vers l'est à quelques mètres devant vous.
+Si vous voulez explorer l'endroit, (rendez-vous au 46).
+Au sud, le couloir tourne également vers l'est. Si vous préférez aller de ce côté, (rendez-vous au 332).

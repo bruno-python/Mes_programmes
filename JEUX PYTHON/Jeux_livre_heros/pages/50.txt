@@ -1,0 +1,4 @@
+La créature que vous avez tuée s'écroule sur le sol. Vous fouillez ses vêtements sans rien trouver, mais un petit sac pend à son cou.
+A l'intérieur du sac se trouve une petite clé de bronze gravée du chiffre 9.
+Vous pouvez la prendre si vous le désirez.
+Il n'y a rien d'autre d'intéressant dans la caverne, et vous sortez en retournant à la bifurcation (Rendez-vous au 269)

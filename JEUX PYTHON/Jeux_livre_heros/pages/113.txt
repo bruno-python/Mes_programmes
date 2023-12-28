@@ -1,0 +1,3 @@
+Vous arrivez à une autre bifurcation.
+Vous avez le choix entre aller au nord (rendez-vous au 285)
+ou poursuivre vers l'est (rendez-vous au 78)

@@ -1,0 +1,4 @@
+Vous découvrez une porte qui ouvre sur une bifurcation.
+Au nord, un court passage se termine en impasse, et à l'est un autre couloir mène à un nouveau croisement.
+Si vous décidez de franchir cette porte secrète (rendez-vous au 187)
+Si vous préférez ne pas vous aventurer dans cette direction, refermez la porte et retournez au croisement précédent en revenant sur vos pas (rendez-vous alors au 359)

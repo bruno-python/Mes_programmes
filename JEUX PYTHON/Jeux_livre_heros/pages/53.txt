@@ -1,0 +1,4 @@
+Vous essayez d'enfoncer la porte d'un vigoureux coup d'épaule. Lancez deux dés.
+Si le chiffre obtenu est égal ou inférieur à votre total d'HABILETÉ, la porte s'ouvre (rendez-vous au 155).
+Si ce chiffre est supérieur à ce total d'HABILETÉ, la porte est ébranlée mais ne bouge pas, et vous grimacez de douleur à cause du choc à l'épaule.
+Vous perdez alors 1 point d'ENDURANCE et vous continuez votre chemin le long du couloir (rendez-vous au 300).

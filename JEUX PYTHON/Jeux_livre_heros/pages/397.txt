@@ -1,0 +1,6 @@
+La porte s'ouvre sur une petite pièce au sol de pierre et aux murs sales.
+Une odeur de moisi flotte dans l'air. Au centre de la pièce, il y a une table rudimentaire sur laquelle est posée une chandelle allumée.
+Sous la table, vous apercevez une petite boîte.
+A l'autre bout de la pièce, vous remarquez une paillasse dans un coin.
+Vous avez le choix: ouvrir la boîte (rendez-vous au 240)
+Ou quitter la pièce (rendez-vous au 363)

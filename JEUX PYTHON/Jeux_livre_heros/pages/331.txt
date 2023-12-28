@@ -1,0 +1,8 @@
+La créature à la taille d'un homme, mais ses longs bras semblent très puissants.
+Menez cette bataille :
+
+COMBATTANT : TROLL 2
+HABILETÉ   : 8
+ENDURANCE  : 8
+
+Si vous êtes vainqueur, vous pouvez partir en direction du nord (rendez-vous au 287)

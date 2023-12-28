@@ -1,0 +1,5 @@
+Vous entendez un grondement et le sol se met à vibrer. La herse s'élève lentement et avec bruit, disparaissant dans le plafond.
+Vous pouvez maintenant aller jusqu'à la bifurcation.
+Choisirez-vous de poursuivre vers l'ouest (rendez-vous au 210)
+ou vers l'est (rendez-vous au 58)
+

@@ -1,0 +1,5 @@
+La porte s'ouvre sur un passage que vous suivez en direction du nord.
+Bientôt, vous arrivez à une courbe qui s'oriente vers l'est.
+Au bout de quelques mètres, vous parvenez à une bifurcation,
+vous avez alors le choix entre aller vers le nord (rendez-vous au 262)
+ou poursuivre vers l'est (rendez-vous au 307)

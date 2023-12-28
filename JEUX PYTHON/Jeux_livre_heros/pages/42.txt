@@ -1,0 +1,3 @@
+Vous arrivez enfin au bout du couloir. Vous vous trouvez à un croisement.
+Vous pouvez aller à l'ouest (rendez-vous au 257),
+ou à l'est (rendez-vous au 113).

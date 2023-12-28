@@ -1,0 +1,5 @@
+Vous suivez un passage orienté au nord.
+Au bout d'une certaine distance, il tourne brusquement vers l'est.
+Vous poursuivez votre chemin vers l'est, et vous passez bientôt devant une ouverture étroite aménagée dans le mur nord.
+Vous pouvez franchir cette ouverture (rendez-vous au 89)
+ou continuer vers l'est (rendez-vous au 62)

@@ -1,0 +1,9 @@
+Le passage tourne brusquement au nord et vous entendez un bruit d'eau qui coule à quelque distance. Vous arrivez bientôt sur la berge sud d'une rivière souterraine. Debout sur les cailloux de la rive, vous percevez des battements d'ailes et vous levez les yeux : trois CHAUVES-SOURIS GÉANTES fondent sur vous pour vous attaquer en piqué.
+Combattez-les toutes les trois à la fois, comme si elles n'étaient qu'une seule et même créature.
+
+
+COMBATTANT : CHAUVE-SOURIS GÉANTE
+HABILETÉ   : 6
+ENDURANCE  : 6
+
+Si vous remportez la victoire, rendez-vous au 344. Vous pouvez aussi prendre la fuite en sautant dans la rivière (rendez-vous au 399)

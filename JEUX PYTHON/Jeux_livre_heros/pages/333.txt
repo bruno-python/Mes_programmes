@@ -1,0 +1,13 @@
+Vous brandissez votre épée en direction de la créature, mais celle-ci tend le bras et attrape la lame dans sa main! Sa force est si grande que votre épée en devient presque totalement inefficace.
+Vous êtes saisi de panique en vous en rendant compte, mais il faut poursuivre le combat.
+
+COMBATTANT : TROLL VAMPIRE
+HABILITÉ   : 10
+ENDURANCE  : 10
+
+Si vous terrassez le vampire (rendez-vous au 327)
+Si vous voulez essayer de prendre la fuite, vous ne pourrez le faire qu'après avoir mené six assauts et seulement si vous avez de la chance.
+(Tentez votre Chance)
+Si vous êtes chanceux, vous pouvez vous enfuir par la porte ouest (rendez-vous au 380).
+Si vous êtes malchanceux, il faut continuer le combat pendant encore six autres assauts avant de pouvoir à nouveau tenter de vous échapper.
+Si le chiffre que vous obtenez en lançant les dés est de 11 ou 12 et que vous êtes malchanceux (c'est-à-dire si votre total de CHANCE est inférieur à 11) (rendez-vous au 224)

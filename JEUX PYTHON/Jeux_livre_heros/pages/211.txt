@@ -1,0 +1,6 @@
+Les Etres ne sont vulnérables qu'aux armes d'argent massif.
+Si l'arme que vous avez en main n'est pas en argent, lancez un nouvel assaut.
+Rappelez-vous que chaque blessure qu'il vous inflige compte, mais que vous ne pouvez pas le blesser, de ce fait, sa force restera intacte (HABILETÉ: 9, ENDURANCE: 6) à moins que vous n'avez choisi une arme en argent.
+Si vous disposez d'une telle arme, vous feriez bien de vous en servir à présent (rendez-vous au 173)
+Si vous n'en avez pas, ou si vous estimez que vous avez suffisamment pâti du combat, il ne vous reste plus qu'à vous enfuir par la porte nord (rendez-vous au 360)
+Rappelez-vous que, dans ce cas, il vous inflige une dernière blessure tandis que vous vous échappez.

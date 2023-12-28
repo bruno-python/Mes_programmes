@@ -1,0 +1,5 @@
+Vous vous trouvez au milieu d'un couloir est-ouest.
+A l'est, il se termine en un cul-de-sac que vous pouvez examiner (rendez-vous au 315)
+A l'ouest, il y a une bifurcation qui vous est familière (rendez-vous au 52)
+Un autre passage, très court, part vers le nord et aboutit à une haute porte de bois.
+Si vous préférez essayer de franchir cette porte (rendez-vous au 227)

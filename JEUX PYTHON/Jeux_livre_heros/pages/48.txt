@@ -1,0 +1,4 @@
+Vous vous trouvez dans un couloir est-ouest.
+Si vous allez à l'est vous arriverez à un tournant s'orientant vers le nord.
+Si vous choisissez cette direction, (rendez-vous au 391).
+Pour aller à l'ouest, (rendez-vous au 60).

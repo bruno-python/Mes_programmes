@@ -1,0 +1,20 @@
+﻿La bagarre commence. Vous avez votre épée, ils ont leurs haches. Ils vous affrontent un par un.
+
+COMBATTANT : NAIN 1
+HABILETÉ   : 7
+ENDURANCE  : 6
+
+COMBATTANT : NAIN 2
+HABILETÉ   : 7
+ENDURANCE  : 7
+
+COMBATTANT : NAIN 3
+HABILETÉ   : 4
+ENDURANCE  : 6
+
+COMBATTANT : NAIN 4
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+Si vous êtes vainqueur, (rendez-vous au 376). Si le combat tourne mal, vous pouvez fuir par la porte.
+(Rendez-vous au 291), mais n'oubliez pas votre pénalité de fuite.

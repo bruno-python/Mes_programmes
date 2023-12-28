@@ -1,0 +1,4 @@
+Vous essayez d'enfoncer la porte à coups d'épaule. Jetez deux dés.
+Si le chiffre obtenu est égal ou inférieur au total de vos points d'HABILETÉ, vous avez réussi (rendez-vous au 343)
+Si le chiffre obtenu est supérieur à vos points d'HABILETÉ, vous frottez votre épaule endolorie et vous décidez de ne pas faire de seconde tentative.
+Retournez à la bifurcation (rendez-vous au 92)

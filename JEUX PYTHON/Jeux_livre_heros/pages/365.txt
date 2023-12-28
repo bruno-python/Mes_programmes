@@ -1,0 +1,25 @@
+Les FARFADETS vous attaquent un par un.
+
+
+COMBATTANT : FARFADET 6
+HABILETE   : 6
+ENDURANCE  : 5
+
+COMBATTANT : FARFADET 7
+HABILETE   : 6
+ENDURANCE  : 5
+
+COMBATTANT : FARFADET 8
+HABILETE   : 4
+ENDURANCE  : 4
+
+COMBATTANT : FARFADET 9
+HABILETE   : 3
+ENDURANCE  : 4
+
+COMBATTANT : FARFADET 10
+HABILETE   : 2
+ENDURANCE  : 4
+
+Si vous êtes vainqueur (rendez-vous au 183)
+Si vous voulez vous enfuir pendant le combat (n'oubliez pas alors vos points de pénalité) (rendez-vous au 237)

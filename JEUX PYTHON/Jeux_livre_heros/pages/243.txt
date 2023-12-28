@@ -1,0 +1,9 @@
+A votre grande horreur, vous réalisez que ce prétendu levier était un piège ! Bien qu'il ait l'apparence d'une poignée, il s'agit en fait d'une lame d'épée recouverte de cire, et vous vous êtes gravement coupé à la main en la saisissant.
+Est-ce la main droite ou la main gauche ?
+Lancez un dé.
+Si le chiffre obtenu est impair, c'est la main avec laquelle vous tenez votre épée qui est blessée, et votre adresse à combattre s'en trouve fortement diminuée.
+Vous perdez 3 points d'HABILETÉ et 1 point d'ENDURANCE.
+Si vous avez obtenu un chiffre pair, c'est votre autre main qui est atteinte et, de ce fait, la blessure n'aura pas de trop fâcheuses conséquences.
+Vous perdez cependant 1 point d'HABILETÉ et 2 d'ENDURANCE.
+Si maintenant vous voulez essayer de tirer le levier de droite (rendez-vous au 128)
+Vous n'avez d'ailleurs pas d'autre choix, car seul ce levier peut vous permettre d'aller plus loin et faites attention: désormais, il faudra penser à vous servir de votre main valide!

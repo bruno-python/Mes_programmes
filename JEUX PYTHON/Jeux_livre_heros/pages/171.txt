@@ -1,0 +1,3 @@
+Vous vous trouvez à l'extrémité nord d'un court passage nord-sud.
+Vous êtes devant un cul-de-sac. Si vous voulez examiner le mur (rendez-vous au 337)
+Pour aller au sud (rendez-vous au 187)

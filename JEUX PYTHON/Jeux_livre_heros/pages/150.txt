@@ -1,0 +1,4 @@
+Vous êtes à la croisée de trois chemins.
+Pour aller au nord (rendez-vous au 222)
+Pour aller à l'est (rendez-vous au 297)
+Pour aller au sud (rendez-vous au 133)

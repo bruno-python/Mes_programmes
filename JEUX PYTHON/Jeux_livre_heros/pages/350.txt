@@ -1,0 +1,19 @@
+La "turbulence" vous entoure et vous sentez frétiller contre vous une multitude de petits poissons. Ils vous écorchent la peau en vous mordant avec agressivité, et vous réalisez alors que vous êtes assailli par des PIRANHAS!
+Si au cours du combat avec le Crocodile, vous avez réussi à le blesser, vous avez de la chance, car la plupart des poissons carnivores vont s'attaquer au reptile, attirés par le sang qui coule de ses plaies.
+Mais si vous n'avez pas blessé le Crocodile, les Piranhas se jetteront soit sur vous, soit sur lui, et pour savoir qui sera leur victime, jetez un dé.
+Si vous faites un 1 ou un 2, la plupart des Piranhas choisiront de s'attaquer à vous.
+Si vous faites entre 3 et 6, en revanche, la majorité des poissons se précipitera sur le Crocodile.
+Affrontez les Piranhas comme s'ils étaient une seule et même créature.
+Dans l'hypothèse où c'est vous qu'ils attaquent, voici quels sont leurs points :
+
+COMBATTANT : PIRANHAS 1
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+Mais si c'est le Crocodile qui est visé, vous n'aurez à combattre que ceux qui ne se sont pas joints à leurs congénères. Vos attaquants seront alors beaucoup moins nombreux, et voici leurs points :
+
+COMBATTANT : PIRANHAS 2
+HABILITÉ   : 5
+ENDURANCE  : 1
+
+Si vous êtes vainqueur, vous pouvez nager jusqu'à la rive (rendez-vous au 7) Là, vous aurez droit de prendre un Repas si vous le souhaitez, vous gagnez également 1 point de CHANCE.

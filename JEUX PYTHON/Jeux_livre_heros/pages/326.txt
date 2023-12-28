@@ -1,0 +1,4 @@
+Vous entrez dans une petite pièce aux murs de roc.
+ Une clé d'or est accrochée au mur du fond.
+ Il semble n'y avoir aucune issue à la pièce. Voulez-vous aller chercher cette clé (rendez-vous au 35)
+ ou préférez-vous la laisser là et revenir à la bifurcation (rendez vous au 229)

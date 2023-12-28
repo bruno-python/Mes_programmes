@@ -1,0 +1,5 @@
+Vous vous mettez en route vers le sud par un passage pavé.
+Le passage tourne à l'ouest, puis au sud, puis à l'ouest encore, et vous mène enfin à la croisée de trois chemins.
+Pour aller au nord (rendez-vous au 329)
+Pour aller à l'ouest (rendez-vous au 180)
+Pour aller à nouveau vers l'est	(rendez-vous au 70)

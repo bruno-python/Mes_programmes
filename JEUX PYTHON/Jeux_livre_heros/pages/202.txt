@@ -1,0 +1,5 @@
+Vous mettez le casque sur votre tête. Il vous va bien.
+Mais soudain, vous ressentez au front une douleur fulgurante, vous êtes pris de panique.
+Ce casque est ensorcelé, et il vous est impossible de l'enlever en dépit de vos efforts désespérés.
+Vous perdez 1 point d'HABILETÉ. Bientôt, la douleur disparaît, mais vous ne parvenez toujours pas à ôter le casque de votre tête.
+Vous revenez sur vos pas en titubant et vous essayez de reprendre vos esprits tandis que vous retournez à la bifurcation (rendez-vous au 87)

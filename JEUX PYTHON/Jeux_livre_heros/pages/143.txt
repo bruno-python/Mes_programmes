@@ -1,0 +1,9 @@
+Vous vous accroupissez sur le sable de la rive. Tandis que vous préparez votre repas, vous remarquez que le sable bouge à deux mètres de vous environ. Le sable s'agite de plus en plus et vous vous levez d'un bond, votre épée à la main, Soudain, une énorme tête cylindrique jaillit de la surface sablonneuse, puis se met à se tortiller et flaire votre odeur. Le corps lisse et annelé d'un VER MARIN GÉANT s'élève alors, et oscille dans votre direction. En même temps, une ouverture béante hérissée de petites dents pointues apparaît dans ce qui lui tient lieu de tête. 11 vous faut combattre cette créature.
+
+COMBATTANT : VER MARIN GÉANT
+HABILETÉ   : 7
+ENDURANCE  : 7
+
+Si vous êtes vainqueur (rendez-vous au 44)
+Si vous préférez prendre la fuite, vous ne pourrez le faire qu'après avoir mené trois assauts contre la bête, et vous plongerez alors dans la rivière ; vous nagerez en suivant le courant (rendez-vous au 399)
+Mais, dans votre fuite, vous aurez perdu les provisions que vous aviez commencé à manger.

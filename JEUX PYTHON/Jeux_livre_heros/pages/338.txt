@@ -1,0 +1,14 @@
+Vous approchez prudemment de la statue.
+Soudain, vous faites volte- face en entendant un bruit de pas derrière vous, mais ce n'est qu'un rat.
+Vous essayez de retirer la pierre précieuse, mais elle est solidement sertie.
+Vous tentez de l'enlever avec la pointe de votre épée et, tandis que vous vous efforcez d'arriver à vos fins, vous entendez un grincement qui ne présage rien de bon.
+A votre grande terreur, la statue se met à bouger!
+Vous faites un bond en arrière, et vous tirez votre épée.
+Le CYCLOPE DE FER tourne la tête vers vous et descend de son piédestal. Il faut vous battre !
+
+COMBATTANT : CYCLOPE DE FER
+HABILETÉ   : 10
+ENDURANCE  : 10
+
+Si vous êtes vainqueur (rendez-vous au 75)
+Si vous voulez prendre la fuite pendant le combat, vous pouvez le faire en repassant la porte et en retournant à la bifurcation (rendez-vous au 93)

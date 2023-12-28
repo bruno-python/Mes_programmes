@@ -1,0 +1,3 @@
+Vous êtes dans un couloir est-ouest qui se termine à chaque extrémité par un croisement en forme de T.
+Si vous choisissez d'aller vers l'ouest (rendez-vous au 150)
+Si vous préférez l'est (rendez-vous au 256)

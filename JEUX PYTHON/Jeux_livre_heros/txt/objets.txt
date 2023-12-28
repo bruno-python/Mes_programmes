@@ -1,0 +1,12 @@
+1,Maillet en bois,0,0,0,0
+2,Ciseau lame d'argent,0,0,0,0
+3,Un Bâton en forme de Y,0,0,0,0
+4,Petit piquet,0,0,0,0
+5,Chandelle bleue,0,0,0,0
+6,L'oeil du Cyclope,0,0,0,0
+7,Clé gravée du chiffre (9),0,0,0,0
+8,Clé gravée du chiffre (66),0,0,0,0
+9,Clé gravée du chiffre (99),0,0,0,0
+10,Clé gravée du chiffre (111),0,0,0,0
+11,Clé gravée du chiffre (125),0,0,0,0
+12,trousseau de clés (hangar),0,0,0,0

@@ -1,0 +1,3 @@
+Vous êtes dans un couloir nord-sud.
+Vous avez le choix entre aller au nord en franchissant une haute porte de bois (rendez-vous au 206)
+Ou prendre la direction du sud (rendez-vous au 329)

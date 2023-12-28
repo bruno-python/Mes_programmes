@@ -1,0 +1,10 @@
+Les cartes peuvent être avec vous ou contre vous. Vous avez deux possibilités.
+Vous pouvez d'une part vous en remettre entièrement aux cartes.
+Dans ce cas, lancez deux dés.
+Si le chiffre obtenu est pair, vous perdez autant de Pièces d'Or ou toutes vos pièces si vous en possédez moins que ce chiffre.
+Si les dés vous donnent un chiffre impair, vous gagnez autant de Pièces d'Or.
+Vous pouvez d'autre part vous servir de votre CHANCE pour vous aider à gagner.
+(Tentez votre Chance)
+Si vous êtes chanceux, lancez deux dés pour savoir combien de Pièces d'Or vous avez gagnées.
+Si vous êtes malchanceux, le chiffre obtenu aux dés vous indiquera combien de Pièces vous avez perdues.
+Si vous avez gagné, vous prenez 2 points de CHANCE supplémentaires pour saluer votre bonne fortune. Lorsque vous en aurez terminé (rendez-vous au 131)

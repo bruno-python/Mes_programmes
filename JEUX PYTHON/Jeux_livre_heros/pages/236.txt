@@ -1,0 +1,15 @@
+Le combat s'engage. Les squelettes vous attaquent un par un :
+
+COMBATTANT : Squelette 6
+HABILETE   : 6
+ENDURANCE  : 5
+
+COMBATTANT : Squelette 7
+HABILETE   : 6
+ENDURANCE  : 6
+
+COMBATTANT : Squelette 8
+HABILETE   : 5
+ENDURANCE  : 5
+
+Si vous êtes vainqueur (rendez-vous au 395)

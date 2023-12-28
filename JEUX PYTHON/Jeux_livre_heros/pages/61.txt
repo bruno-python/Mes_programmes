@@ -1,0 +1,8 @@
+En examinant la caverne, vous entendez soudain un bruit de pas précipités derrière vous, et lorsque vous vous retournez, vous voyez se dessiner devant vous la silhouette noire et saugrenue d'une ARAIGNÉE GEANTE qui vous a suivi. L'araignée n'est qu'à un mètre de vous et vous tirez aussitôt votre épée pour vous défendre.
+
+COMBATTANT : ARAIGNÉE GÉANTE
+HABILETÉ   : 7
+ENDURANCE  : 8
+
+Si vous sortez vainqueur du combat, (rendez-vous au 29)
+Vous pouvez choisir de prendre la fuite le long du couloir après deux assauts, et vous vous retrouverez alors au croisement (Rendez-vous au 375)

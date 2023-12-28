@@ -1,0 +1,3 @@
+Quelques mètres plus loin, vous parvenez à une autre bifurcation.
+Vous pouvez aller soit au nord (rendez-vous au 8)
+soit à l'est (rendez-vous au 255)

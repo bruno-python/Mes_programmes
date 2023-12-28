@@ -1,0 +1,7 @@
+1,Provisions,0,0,0,0
+2,Fromage,0,0,0,0
+3,Bocal d'oeufs de caille,0,0,0,0
+4,Potion d'adresse,0,0,0,0
+5,Potion de vigueur,0,0,0,0
+6,Potion de bonne fortune,0,0,0,0
+7,Potion d'invisibilité,0,0,0,0

@@ -1,0 +1,4 @@
+Vous êtes debout dans le couloir, au milieu d'un tournant.
+Au nord, le passage se termine par un cul-de-sac.
+Si vous voulez l'explorer (rendez-vous au 171)
+Si vous préférez aller vers l'est (rendez-vous au 308)

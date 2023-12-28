@@ -1,0 +1,7 @@
+La porte s'ouvre sur un petit couloir qui aboutit quelques mètres plus loin à une autre porte semblable à celle que vous venez de franchir.
+Vous vous penchez pour écouter, mais vous n'entendez rien.
+Vous essayez de tourner la poignée, et avec succès puisque la porte s'ouvre sans résistance, découvrant une autre pièce de même dimension.
+Cette pièce est magnifiquement décorée, le sol est de marbre poli et les murs de pierres brutes sont peints en blanc.
+À chacun des quatre murs sont accrochés des tableaux et il y a une autre porte aménagée dans le mur nord.
+Vous pouvez traverser cette pièce (rendez-vous au 90)
+ou vous attarder pour contempler les tableaux (rendez-vous au 25)

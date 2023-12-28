@@ -1,0 +1,9 @@
+Vous vous trouvez à un croisement.
+Il y a un passage qui mène vers l'ouest pendant quelques mètres, puis qui tourne au nord.
+Le chemin qui part vers le nord aboutit à une porte.
+A l'est, il y a un troisième couloir qui, plus loin, s'oriente au sud.
+Enfin, le dernier passage mène droit vers le sud aussi loin que porte la vue.
+Si vous allez à l'ouest	(rendez-vous au 187)
+Si vous allez au nord (rendez-vous au 54)
+Si vous allez au sud (rendez-vous au 160)
+Si vous allez à l'est (rendez-vous au 354)

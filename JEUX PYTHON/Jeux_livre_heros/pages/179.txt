@@ -1,0 +1,13 @@
+Vous venez d'entrer dans une grande pièce carrée. Des débris de poteries traînent çà et là sur le sol. Vous apercevez également un grand vase d'argile, intact, et rempli d'un liquide clair. Il y a aussi un grand bol plein de Pièces d'Or.
+Lorsque vous pénétrez dans la pièce, la porte claque derrière vous et vous vous retournez pour faire face à une créature à l'aspect étrange, moitié homme, moitié taureau. La créature vous regarde d'un air menaçant. C'est un MINOTAURE et il s'avance vers vous !
+
+Il incline la tête, ses cornes pointées sur votre poitrine, et se met à charger.
+Il vous faut le combattre :
+
+COMBATTANT : MINOTAURE
+HABILITÉ   : 9
+ENDURANCE  : 9
+
+Après le troisième assaut, vous vous arrangez pour faire un mouvement circulaire qui vous rapproche de la porte par laquelle vous pouvez vous enfuir. Si vous voulez prendre la fuite à ce moment-là (rendez-vous au 54) sans oublier de retirer vos points de pénalité.
+Si vous poursuivez le combat et que vous le tuez (rendez-vous au 258)
+Si vous êtes déjà venu dans cette pièce et si vous avez déjà tué le Minotaure, vous l'aurez trouvée vide la deuxième fois. Dans ce cas (rendez-vous au 54)

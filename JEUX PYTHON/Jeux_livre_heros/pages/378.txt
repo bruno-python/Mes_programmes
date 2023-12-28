@@ -1,0 +1,7 @@
+Vous essuyez votre épée ensanglantée sur la paillasse.
+Le sang vert laisse une tache gluante sur la paille.
+Vous enjambez les cadavres pour vous approcher de la table, et la puanteur des créatures vous donne un haut-le-cœur.
+Vous ramassez la boîte sous la table et vous l'examinez.
+C'est une petite boîte en bois munie d'un couvercle attaché par des charnières rudimentaires.
+Une petite plaque de cuivre y est fixée, sur laquelle on peut lire ce nom: "Farrigo Di Maggio" Si vous voulez ouvrir cette boîte (rendez-vous au 296)
+Si vous préférez l'abandonner et quitter la pièce (rendez-vous au 42)

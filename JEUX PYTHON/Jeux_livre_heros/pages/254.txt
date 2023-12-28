@@ -1,0 +1,9 @@
+Il règne un silence mortel. Vous contournez les cercueils à pas feutrés, et vous sursautez en entendant un bruit d'eau qui s'écoule lentement, goutte à goutte. L'autel est finement sculpté et incrusté de pierre precieuses. Des draperies magnifiquement tissées, bien qu'usées jusqu'à la corde par endroits, couvrent les murs.
+Il y a exactement trois cercueils dans la pièce. Vous faites soudain colte-face en percevant un grincement, et la lumière de votre lanterne tombe sur le plus grand des cercueils. Il est en train de s'ouvrir.
+Tandis que vous gardez les yeux fixés sur le couvercle qui se soulève, un homme grand, au visage livide, se redresse et s'assied.
+Ses yeux s'ouvrent et se tournent vers vous. Alors, l'expression de son visage se transforme brusquement, passant de la placidité à une haine féroce. Sa bouche s'ouvre et un terrible sifflement monte de sa gorge.
+Il a comme des dents de loup. Il vous fait signe de vous approcher de lui. Vous avez le choix entre quatre possibilités :
+Vous approcher de lui, comme il le souhaite (rendez-vous au 352)
+Tirer votre épée et vous apprêter au combat (rendez-vous au 333)
+Essayer de trouver dans votre sac à dos une autre arme pour l'attaquer (rendez-vous au 279)
+Courir vers la porte située à l'ouest (rendez-vous au 380)

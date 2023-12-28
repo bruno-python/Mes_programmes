@@ -1,0 +1,3 @@
+Lancez deux dés. Si le chiffre obtenu est inférieur ou égal à votre total de CHANCE et s'il est également inférieur ou égal à votre total d'ENDURANCE.
+Alors, vous parvenez à vous tenir sur le radeau et à le manœuvrer pour atteindre la rive nord (n'enlevez pas de point de CHANCE). Vous arrivez sain et sauf, mais lorsque vous mettez le pied sur la berge, le radeau s'éloigne et dérive en traversant la rivière jusqu'à la rive sud. (Rendez-vous au 7).
+Si le chiffre obtenu aux dés excède votre total de CHANCE et ou d'ENDURANCE, le radeau vous envoie dans l'eau, et il vous faut nager pour revenir sur la rive sud. (Rendez-vous au 166)

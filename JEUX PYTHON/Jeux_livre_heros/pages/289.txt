@@ -1,0 +1,15 @@
+Vous regardez désespérément autour de vous, mais vous ne voyez rien qui puisse vous aider.
+Soudain, votre regard s'arrête sur le jeu de cartes qu'il était en train de manipuler lorsque vous êtes entré, et vous vous rappelez certaines rumeurs qui couraient parmi les villageois selon lesquelles "le pouvoir du Sorcier lui vient de ses cartes".
+Le Sorcier remarque que vous les observez et vous vous précipitez tous deux sur le jeu de cartes.
+Vous arrivez à la table le premier. "N'y touchez pas! hurle-t-il, ou ma colère sera terrible !"
+Mais vous vous emparez des cartes et vous en brûlez une avec votre lanterne.
+Le Sorcier pousse des cris sauvages, puis il vous supplie de les lui rendre.
+Vous continuez cependant à brûler les cartes une par une, et tandis que vous y mettez le feu, la taille du Sorcier diminue.
+Lorsque la dernière carte s'envole en fumée, il n'est plus, face à vous, qu'un homme brisé.
+"Mon livre!" s'écrie-t-il d'une voix rauque, il tente alors d'ouvrir la porte à l'autre bout de la pièce.
+Mais vous vous précipitez, votre épée à la main, et vous bondissez sur lui.
+Menez le combat à son terme:
+
+COMBATTANT : SORCIER
+HABILETÉ   : 7
+ENDURANCE  : 12

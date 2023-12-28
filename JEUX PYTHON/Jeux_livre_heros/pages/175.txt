@@ -1,0 +1,5 @@
+Vous vous trouvez dans un couloir étroit.
+Derrière vous, il y a une porte qui donne à l'est.
+Droit devant, il y a un croisement.
+Si vous voulez franchir la porte (rendez-vous au 177)
+Pour aller au croisement (rendez- vous au 267)

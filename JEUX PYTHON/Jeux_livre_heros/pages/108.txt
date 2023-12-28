@@ -1,0 +1,7 @@
+Au moment où votre pied touche une dalle en forme de main, vous sentez qu'on vous serre la cheville comme dans un étau. Vous regardez à vos pieds, et vous apercevez une main fantomatique qui s'accroche à vous. Vous essayez de retrouver votre équilibre et vous y parvenez. Mais à votre grande terreur, vous réalisez soudain que de chaque dalle en forme de main s'élève une autre main semblable, et le sol est ainsi jonché de mains décharnées qui se tendent et essayent d'attraper quelque chose. Vous tirez votre épée et vous tentez d'en frapper la main. Menez ce combat à son terme :
+
+COMBATTANT : MAIN 5
+HABILETÉ   : 6
+ENDURANCE  : 4
+
+Si vous êtes vainqueur, rendez-vous au 185.

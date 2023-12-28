@@ -1,0 +1,8 @@
+Le passage aboutit à une porte contre laquelle vous collez votre oreille, mais vous n'entendez rien.
+Vous tournez la poignée et la porte s'ouvre sur une grande pièce carrée.
+La salle est dépourvue de tout ameublement, et le sol est recouvert d'une mosaïque de dalles. La plupart de ces dalles sont soit en forme de main, soit en forme d'étoile.
+Il n'y a qu'une seule autre issue à la pièce : une porte dans le mur opposé.
+Que choisissez-vous de faire ?
+Vous traversez la pièce pour atteindre la porte (rendez-vous au 305)
+Vous traversez la pièce en prenant bien soin de ne marcher que sur les dalles en forme d'étoile (rendez-vous au 178)
+Vous traversez la pièce en ne marchant que sur les dalles en forme de main (rendez-vous au 108)

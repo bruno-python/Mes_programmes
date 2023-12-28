@@ -1,0 +1,4 @@
+Vous courez le long du couloir en quête d'une porte, mais vous n'en trouvez pas.
+Vos oreilles vous font terriblement mal!
+Vous perdez encore un point d'HABILETÉ. Vous pouvez essayer le mur ouest (rendez-vous au 355)
+ou le mur nord (rendez-vous au 265), mais il vous faut de toute façon trouver très vite une issue !

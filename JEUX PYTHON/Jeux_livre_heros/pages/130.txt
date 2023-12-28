@@ -1,0 +1,4 @@
+Le vieil homme vous demande combien vous misez. Vous pouvez parier entre 1 et 20 Pièces d'Or (mais en tout cas pas plus que vous n'en possédez !). Il vous donne les deux dés blancs avec lesquels il jouait, et vous demande de les lancer.
+Jetez les dés une fois pour vous et une fois pour le vieil homme.
+Si vous obtenez un total plus élevé que le sien, vous gagnez une somme égale à celle que vous avez pariée, et que le vieil homme doit vous payer.
+Si c'est son total qui est plus élevé, vous perdez votre mise. Vous pouvez continuer aussi longtemps que vous aurez des Pièces d'Or et partir ensuite par la porte pour revenir à la bifurcation. Si vous gagnez, prenez 2 points d'HABILETÉ, 2 d'ENDURANCE et 2 de CHANCE (rendez-vous après au 280)

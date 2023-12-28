@@ -1,0 +1,32 @@
+Les Squelettes avancent sur vous et vous acculent contre la porte. Le chef s'approche. Derrière lui marchent côte à côte deux Squelettes.
+les deux derniers suivent derrière. Il faut d'abord combattre le chef :
+
+COMBATTANT : SQUELETTE CHEF
+HABILETÉ   : 7
+ENDURANCE  : 5
+
+Ensuite, vous aurez à vous battre contre les autres en les affrontant deux par deux. Voici comment se dérouleront ces combats :
+vous aurez deux paires de Squelettes à affronter, mais chacun des deux Squelettes, formant une paire, vous attaquera séparément à chaque assaut.
+Vous devrez choisir lequel vous voulez combattre en priorité.
+Vous mènerez alors le premier assaut contre le Squelette que vous venez de choisir.
+Ensuite, le deuxième Squelette vous attaquera. Vous lancerez les dés pour mesurer votre Force d'Attaque à la manière habituelle, mais si votre Force d'Attaque est supérieure à la sienne, vous n'aurez pas pour autant blessé ce Squelette, vous aurez simplement évité le coup porté par lui.
+En revanche, si sa Force d'Attaque est supérieure à la vôtre, vous serez blessé selon les règles habituelles.
+Chaque assaut se déroule ainsi en deux temps, et vous aurez gagné le combat lorsque le Squelette que vous avez choisi d'affronter en premier sera vaincu. Vous n'aurez donc qu'un seul Squelette à tuer à chaque combat par paire, mais ils seront deux à pouvoir vous blesser.
+
+1re Paire :
+COMBATTANT : SQUELETTE 1
+HABILETÉ   : 6
+ENDURANCE  : 5
+COMBATTANT : SQUELETTE 2
+HABILETÉ   : 6
+ENDURANCE  : 6
+
+2e Paire :
+COMBATTANT : SQUELETTE 3
+HABILETÉ   : 5
+ENDURANCE  : 6
+COMBATTANT : SQUELETTE 4
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+Si vous sortez vainqueur de cette bataille (rendez-vous au 395)

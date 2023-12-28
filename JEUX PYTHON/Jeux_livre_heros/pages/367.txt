@@ -1,0 +1,3 @@
+Vous arrivez à une autre bifurcation.
+Si vous voulez prendre la direction de l'ouest (rendez-vous au 235)
+Si vous préférez aller vers l'est (rendez-vous au 323)

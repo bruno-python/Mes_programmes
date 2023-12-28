@@ -1,0 +1,5 @@
+Le passage est orienté vers le nord, et vous entendez à quelque distance le clapotis d'une rivière souterraine. L'air se rafraîchit.
+Vous parvenez bientôt sur la berge de la rivière. L'espace s'est agrandi, mais, à votre grand désespoir, il n'y a de toute évidence aucun moyen d'atteindre la rive opposée.
+La rivière coule en direction de l'est, et s'enfonce au sein d'une caverne qui s'ouvre dans le roc.
+Vous pouvez vous asseoir là, vous reposer et prendre un Repas (rendez-vous au 143)
+ou continuer par le seul chemin qui semble possible, c'est-à-dire sauter dans la rivière et suivre le courant à la nage (rendez-vous au 399)

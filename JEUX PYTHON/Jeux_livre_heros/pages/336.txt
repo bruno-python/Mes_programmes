@@ -1,0 +1,10 @@
+Vous vous trouvez dans une petite pièce où règne une odeur repoussante.
+Vous remarquez qu'il y a deux portes: une à l'ouest et une autre au sud, derrière vous.
+Les rares meubles disséminés dans la pièce ont été fabriqués avec des morceaux de vieux bateaux.
+Il semble qu'il n'y ait rien de bien intéressant dans cet endroit, à l'exception d'un trousseau de clés accroché au mur.
+Un vieil homme vêtu de haillons est endormi sur un "banc" qui n'est, en fait, qu'une barque coupée en deux, et ronfle bruyamment.
+A côté de lui, un chien au poil marron, à l'air méchant, les yeux rouges et les dents noires, vous fixe d'un regard soupçonneux.
+Vous l'avez réveillé en entrant. Il émet du fond de sa gorge un grognement peu amical. Qu'allez-vous faire ?
+Sortir sur la pointe des pieds par la porte sud (rendez-vous au 66)
+Frapper à la porte derrière vous et toussoter pour réveiller le vieil homme (rendez-vous au 172)
+Bondir dans la pièce en brandissant votre épée pour attaquer le chien (rendez-vous au 249)

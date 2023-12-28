@@ -1,0 +1,6 @@
+Vous ramassez la corde. Elle semble normale. Elle a même l'air de pouvoir vous être très utile à l'occasion. Vous ouvrez votre sac à dos pour l'y ranger, mais soudain, elle prend vie dans vos mains, remonte rapidement le long de votre bras et tente de s'enrouler autour de votre cou. Vous vous efforcez de couper la corde avec votre épée avant que son étreinte ne se resserre.
+(Tentez votre Chance)
+Si vous êtes chanceux,vous arrivez à couper la corde et elle tombe sur le sol.
+Mais si vous êtes malchanceux, la corde se resserre et vous perdez un point d'ENDURANCE. Il vous faut à nouveau (Tenter votre Chance) pour essayer de couper la corde, et vous aurez ainsi à la tenter jusqu'à ce que vous y parveniez.
+A chaque échec, vous perdez 1 point d'ENDURANCE et vous n'oubliez pas de réduire votre total de CHANCE.
+Si vous arrivez finalement à vaincre la corde, vous pouvez poursuivre votre chemin en empruntant la porte nord (rendez-vous alors au 73)

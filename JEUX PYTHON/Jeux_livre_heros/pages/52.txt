@@ -1,0 +1,6 @@
+Vous vous trouvez à un croisement à angle droit en forme de T. Un passage vers l'est part d'un corridor nord-sud.
+Si vous allez au sud (Rendez-vous au 391)
+Si vous voulez essayer de découvrir des passages secrets dans le couloir qui mène vers le sud (Rendez-vous au 362)
+Si vous allez au nord (Rendez-vous au 354)
+Si vous voulez découvrir des passages secrets dans le couloir qui mène vers le nord (Rendez-vous au 234)
+Si vous prenez la direction de l'est (Rendez-vous au 291)

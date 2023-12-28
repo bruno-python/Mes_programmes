@@ -1,0 +1,5 @@
+Vous êtes à une croisée des chemins.
+Pour aller au nord (rendez-vous au 106)
+Pour aller au sud (rendez-vous au 373)
+Pour aller à l'est (rendez-vous au 318)
+Pour aller à l'ouest (rendez-vous au 59)

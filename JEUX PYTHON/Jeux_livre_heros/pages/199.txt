@@ -1,0 +1,11 @@
+Le passage s'élargit devant vous et vous pouvez voir une grande caverne un peu plus loin. Vous l'examinez à la lumière de votre lanterne et vous apercevez des armes de pierre posées sur le sol ; il y a également un feu de bois qui couve au centre de la caverne. Vous ne trouvez aucune issue, cependant. Il ne vous reste plus qu'à revenir sur vos pas, mais, lorsque vous vous retournez, vous vous immobilisez soudain en voyant deux HOMMES DES CAVERNES qui vous barrent le passage vers la sortie. Ils grognent en vous observant avec agressivité. Vous tirez votre épée et vous vous tenez prêt à combattre.
+
+COMBATTANT : HOMME DES CAVERNES 1
+HABILETÉ   : 7
+ENDURANCE  : 6
+
+COMBATTANT : HOMME DES CAVERNES 2
+HABILETÉ   : 6
+ENDURANCE  : 4
+
+Affrontez-les un par un. Si vous êtes vainqueur, quittez la caverne et retournez à la bifurcation (rendez-vous au 283)

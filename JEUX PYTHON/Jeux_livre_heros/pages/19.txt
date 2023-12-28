@@ -1,0 +1,11 @@
+Ces deux créatures malfaisantes sont des LUTINS. Ils vous attaquent un par un.
+
+COMBATTANT : LUTIN 1
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+COMBATTANT : LUTIN 2
+HABILETÉ   : 5
+ENDURANCE  : 6
+
+Si vous parvenez à tuer les lutins, (rendez-vous au 317).

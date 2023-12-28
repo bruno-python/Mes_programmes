@@ -1,0 +1,3 @@
+Vous poursuivez votre chemin le long du couloir vers l'est. Au bout d'une trentaine de mètres, le couloir s'oriente au sud. Vous suivez le tournant et vous êtes finalement arrêté par une massive porte blindée.
+Si vous voulez essayer d'ouvrir la porte, (rendez-vous au 6)
+Si vous préférez revenir en arrière et passer par l'ouverture étroite, (rendez-vous au 89)

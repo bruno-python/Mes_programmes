@@ -1,0 +1,10 @@
+La créature qui vous fait face à présent est une femme aux chairs à moitié décomposées. Ses yeux vifs vous observent en remuant en tous sens.
+Sa langue très longue jaillit par instants de sa bouche avec un sifflement. Elle a les dents et les ongles pointus, et ne semble nullement s'effrayer de votre arme. C'est une GOULE!
+
+COMBATTANT : GOULE
+HABILETÉ   : 8
+ENDURANCE  : 7
+
+Elle aura la faculté de vous paralyser si jamais elle parvient à vous infliger quatre blessures distinctes, lors du combat, aussi, prenez garde!
+Si vous êtes vainqueur (rendez-vous au 390)
+Si elle vous tue ou vous paralyse (rendez-vous au 64)

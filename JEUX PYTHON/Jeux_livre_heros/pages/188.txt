@@ -1,0 +1,9 @@
+Il fait à présent un peu moins de deux mètres de haut. Il avance sur vous. Son corps est couvert de poils. Ses dents sont pointues.
+Ses yeux lancent des éclairs. Ses ongles sont aussi acérés que des griffes. Son nez s'est transformé en un museau de rat. C'est un RAT-GAROU!
+
+COMBATTANT : RAT-GAROU
+HABILETÉ   : 8
+ENDURANCE  : 5
+
+Combattez-le. Si vous êtes vainqueur (rendez-vous au 342)
+Si vous choisissez de prendre la fuite, vous pouvez le faire en traversant le pont branlant (rendez-vous au 209)

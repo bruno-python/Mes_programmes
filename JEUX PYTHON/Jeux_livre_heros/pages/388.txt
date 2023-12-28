@@ -1,0 +1,5 @@
+Votre épée vous échappe des mains, s'envole et retombe sur vous, vous avez tout juste le temps de faire un bond de côté pour l'éviter.
+La lame cependant vous égratigne la joue, et vous perdez 1 point d'ENDURANCE.
+Vous estimez préférable de quitter la pièce.
+Ramassez votre épée (rendez-vous au 90)
+Vous perdez 1 point d'HABILETÉ en raison de la peur que vous inspire le pouvoir du Sorcier.

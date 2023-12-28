@@ -1,0 +1,3 @@
+Vous marchez le long d'un couloir qui mène droit au sud, puis qui tourne à l'ouest. Quelques mètres plus loin, il aboutit au croisement de trois chemins.
+Vous pouvez essayer de découvrir un passage secret le long du couloir (rendez-vous au 260)
+ou aller droit au croisement (rendez-vous au 329)

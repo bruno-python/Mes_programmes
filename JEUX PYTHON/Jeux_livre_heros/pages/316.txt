@@ -1,0 +1,6 @@
+L'eau est glaciale.
+Vous vous mettez à nager, et vous remarquez que vos mouvements attirent vers vous une "turbulence" qui se déplace à la surface de l'eau.
+Votre force et votre endurance seront-elles suffisantes pour vous permettre de tenir bon?
+Lancez deux dés.
+Si le chiffre obtenu est inférieur ou égal à vos points d'ENDURANCE, vous pensez que vous pouvez réussir à traverser la rivière, et vous nagez de toutes vos forces en direction de la berge nord (rendez-vous au 151)
+Si les dés vous donnent un chiffre supérieur à vos points d'ENDURANCE, vous préférez ne pas prendre de risques, et vous retournez à la berge sud (rendez-vous au 218) Une fois parvenu à la rive sud, vous pourrez prendre un Repas.

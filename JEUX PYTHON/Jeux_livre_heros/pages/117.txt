@@ -1,0 +1,3 @@
+Vous êtes dans un passage est-ouest.
+Pour aller à l'est (rendez-vous au 354)
+Si vous préférez l'ouest (rendez-vous au 308)

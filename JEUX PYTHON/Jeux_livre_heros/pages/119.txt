@@ -1,0 +1,2 @@
+Vous ouvrez votre sac à dos et vous y cherchez quelque chose que vous pourriez lancer dans la caverne. Consultez votre Liste d'Equipement, choisissez-y ce que vous lancerez et rayez l'objet de cette Liste. Si vous n'avez pas d'Équipement, il vous faudra lancer une Pièce d'Or. Vous jetez l'objet qui tombe sur le sol de la caverne avec un bruit sonore.
+L'Ogre regarde dans la direction d'où est venu le bruit et va voir ce qui se passe. Pendant ce temps, vous sortez en rampant et vous retournez à la bifurcation en suivant le couloir en sens inverse (rendez-vous au 269)

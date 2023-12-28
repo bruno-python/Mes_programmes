@@ -1,0 +1,13 @@
+Vous tirez votre épée et vous entrez dans la caverne.
+Le Géant s'arrête soudain de mâcher, relève la tête et renifle autour de lui. Il se retourne et vous voit approcher.
+Avec un rugissement sonore, il lance la carcasse du cochon dans votre direction. (Tentez votre Chance)
+Si vous êtes chanceux, il vous rate.
+Si vous êtes malchanceux, la carcasse vous heurte violemment et vous perdez 1 point d'ENDURANCE.
+Ensuite, le Géant ramasse son marteau et s'apprête à vous frapper. Menez la bataille à son terme.
+
+COMBATTANT : GÉANT
+HABILETÉ   : 8
+ENDURANCE  : 9
+
+Si vous êtes vainqueur (rendez-vous au 28)
+Vous pouvez prendre la fuite, mais au bout du troisième assaut seulement, vous sortez dans ce cas par le passage où il ne pourra pas vous suivre (rendez-vous au 351)

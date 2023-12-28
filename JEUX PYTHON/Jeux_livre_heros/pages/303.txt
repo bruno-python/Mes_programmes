@@ -1,0 +1,6 @@
+Vous parvenez à l'extrémité du passage qui aboutit alors à un autre couloir est-ouest.
+Mais il y a une herse de fer en travers de votre chemin et il ne faut pas espérer la forcer.
+Deux leviers dépassent du mur à votre droite, et selon toute vraisemblance, l'un de ces leviers commande l'ouverture de la herse.
+Allez-vous tirer sur le levier de droite ou sur celui de gauche ?
+Levier droit (rendez-vous au 128)
+Levier gauche (rendez-vous au 243)

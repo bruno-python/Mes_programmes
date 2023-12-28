@@ -1,0 +1,6 @@
+Vous entrez dans la caverne et vous apercevez des dizaines de stalactites et de stalagmites, aux couleurs magnifiques, qui entourent l'endroit.
+De tous côtés, on entend tomber des gouttes d'eau, et l'ensemble donne l'impression d'une grotte magique.
+Au fond de la caverne, vous trouvez une paire de bottes qui semblent de fabrication récente Qu'allez-vous faire ?
+Continuer à explorer la caverne (rendez-vous au 61)
+Essayer les bottes (rendez-vous au 394)
+Quitter la caverne et revenir à la bifurcation (rendez-vous au 375)

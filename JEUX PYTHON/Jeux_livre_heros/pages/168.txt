@@ -1,0 +1,8 @@
+Vous ouvrez la porte qui donne dans une vaste pièce. Une haute chaise et une table massive semblent indiquer que quelqu'un ou quelque chose d'important occupe cet endroit.
+Vous apercevez un coffre posé au milieu de la pièce.
+Dans un coin se tient une créature de la taille d'un homme, elle a le visage constellé de verrues et domine une autre créature plus petite mais d'apparence semblable.
+Un fouet à la main, le CHEF DES FARFADETS est en train d'infliger une correction à son serviteur qui gémit sous les coups.
+Qu'allez-vous faire ?
+Les attaquer tous deux (rendez-vous au 372)
+Bondir sur le Chef en espérant que son serviteur vous viendra en aide (rendez-vous au 65)
+Quitter la pièce et retourner au croisement (rendez-vous au 293)

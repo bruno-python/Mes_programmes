@@ -1,0 +1,57 @@
+----------------------------------------------------
+backup_jeux.py
+    - def backupVie()
+    - def backupProvisionsPotions()
+    - def backupObjets()
+    - def backupPieces()
+    - def backupBijoux()
+    - def backupArmes()
+    - def backupCreatures()
+    - def backupPageEnCours()
+----------------------------------------------------
+----------------------------------------------------
+barre_parametres.py
+    - def personnage()
+    - def parametres()
+    - def arme()
+    - def choisirPotion()
+    - def habilete()
+    - def endurance()
+    - def chance()
+----------------------------------------------------
+----------------------------------------------------
+combat.py
+    - def pointsXpHero()
+    - def pointsXpCreatures()
+    - def bataille()
+    - def combatCreature()
+    - def xpHeroActualiser()
+    - def fuite()
+    - def creatureMort()
+----------------------------------------------------
+----------------------------------------------------
+fonctions_aleatoire.py
+    - def lancerDes()
+    - def tenterChance()
+----------------------------------------------------
+----------------------------------------------------
+inventaire.py
+    - def pieceOr()
+    - def bijou()
+    - def afficherArmesProtections()
+    - def afficherBijoux()
+    - def afficherObjets()
+    - def afficherProvisionsPotions()
+    - def modifierInventaire()
+----------------------------------------------------
+----------------------------------------------------
+menu.py
+    - def restaurationOrigine()
+    - def restaurationBackup()
+    - def main()
+----------------------------------------------------
+----------------------------------------------------
+quete.py
+    - def afficherPage()
+    - def cheminPossible()
+----------------------------------------------------

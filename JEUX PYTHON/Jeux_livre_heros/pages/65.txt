@@ -1,0 +1,4 @@
+Alors que vous bondissez sur le Chef, son serviteur se relève, ramasse un gourdin et rejoint la mêlée. Mais à votre grand dam, c'est vous qu'il attaque! Misérable ingrat!
+Voyant cela, vous pouvez choisir de prendre la fuite par la porte le long du couloir (rendez-vous au 293),
+ou de poursuivre le combat (rendez-vous au 372).
+Si vous choisissez la fuite, vous subirez les pénalités habituelles prévues dans ce cas.

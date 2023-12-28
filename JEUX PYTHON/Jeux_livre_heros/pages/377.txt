@@ -1,0 +1,8 @@
+Lorsque vous tirez votre épée, le DIABLOTIN AILE s'envole et vous attaque, pendant ce temps, le vieil homme se précipite vers la bibliothèque, manipule un livre qui ouvre une porte secrète, et s'enfuit.
+Il ne vous reste plus qu'à combattre sa créature.
+
+COMBATTANT : DIABLOTIN AILÉ
+HABILETÉ   : 5
+ENDURANCE  : 7
+
+Si vous êtes vainqueur (rendez-vous au 196)

@@ -1,0 +1,4 @@
+Le bruit perçant devient de plus en plus fort. La douleur est insupportable. Réduisez votre total d'HABILETÉ d'1 point à cause de ce supplice. Vous avancez à tâtons dans le noir pour essayer de trouver un mur. Allez-vous vers :
+Le mur ouest ?	(Rendez-vous au 355)
+Le mur nord ?	(Rendez-vous au 265)
+Le mur est ?	(Rendez-vous au 181)

@@ -1,0 +1,17 @@
+Vous tirez votre épée et vous attendez l'assaut des RATS. Alors que leur chef s'apprête à bondir, vous poussez un cri retentissant, et vous vous précipitez en avant.
+Votre cri a effrayé les deux autres rats et ils reculent de quelques pas.
+Affrontez chaque RAT un par un:
+
+COMBATTANT : RAT 1
+HABILETE   : 5
+ENDURANCE  : 4
+
+COMBATTANT : RAT 2
+HABILETE   : 6
+ENDURANCE  : 3
+
+COMBATTANT : RAT 3
+HABILETE   : 5
+ENDURANCE  : 5
+
+Si vous êtes vainqueur, vous pouvez partir par la porte située dans le mur nord (endez-vous au 124)

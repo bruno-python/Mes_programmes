@@ -1,0 +1,7 @@
+A présent que le Sorcier est vaincu, vous savez que votre quête est presque terminée.
+Vous vous approchez de la porte aux deux serrures.
+Il n'y a pas de clés alentour.
+Vous prenez alors deux clés dans votre sac à dos et vous essayez d'ouvrir la porte.
+Les clés tournent dans les serrures! Vous poussez la porte et vous jetez un coup d'oeil à l'intérieur (rendez-vous au 242)
+Si vous n'avez pas de clés, vous pouvez essayer d'enfoncer la porte, mais cela vous coûtera presque tous vos points d'ENDURANCE.
+Réduisez alors votre ENDURANCE de 5 points, et entrez dans la pièce (rendez-vous au 242)

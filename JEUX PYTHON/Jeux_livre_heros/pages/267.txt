@@ -1,0 +1,5 @@
+Vous vous trouvez maintenant à un croisement.
+Pour aller au nord (rendez-vous au 312)
+Pour aller au sud (rendez-vous au 246)
+Pour aller à l'ouest (rendez-vous au 79)
+Pour aller à l'est (rendez-vous au 349)

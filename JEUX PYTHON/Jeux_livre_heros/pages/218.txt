@@ -1,0 +1,10 @@
+Vous vous trouvez sur la berge sud d'une rivière souterraine et vous contemplez ses obscures profondeurs. Il semble qu'il y ait quatre moyens de la traverser.
+A votre gauche, une cloche rouillée porte une inscription: "Service du bac, tarif 2 Pièces d'Or, sonnez S.V.P"
+Juste devant vous, un petit radeau muni d'une longue perche est amarré à la berge, vous pourriez l'utiliser pour traverser.
+A droite, un vieux pont branlant enjambe la rivière.
+Et si vous n'avez confiance ni dans le bac, ni dans le radeau, ni dans le pont, vous avez la possibilité de nager jusqu'à l'autre rive.
+Quel moyen allez-vous choisir ?
+Sonnerez-vous la cloche (rendez-vous au 3)
+Utiliserez-vous le radeau (rendez-vous au 386)
+Vous risquerez-vous sur le pont (rendez-vous au 209)
+Préférez-vous nager (rendez-vous au 316)

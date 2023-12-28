@@ -1,0 +1,7 @@
+Tandis que vous contemplez cette peinture murale vivante, vous ne vous rendez pas compte que votre chandelle brûle rapidement.
+Soudain, sa flamme vacille et s'éteint ! Vous entendez à nouveau les cris perçants et ils deviennent si aigus qu'ils en sont bientôt insupportables.
+Vous vous laissez tomber à genoux, les mains plaquées contre vos oreilles, et vous rampez vers le mur.
+Dans quelle direction allez-vous ramper ?
+Vers le mur est (rendez-vous au 181)
+Vers le mur nord (rendez-vous au 265)
+Vers le mur ouest (rendez-vous au 355)

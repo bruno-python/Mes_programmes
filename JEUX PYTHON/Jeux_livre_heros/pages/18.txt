@@ -1,0 +1,3 @@
+Vous marchez vers l'ouest le long du couloir. Au bout d'une cinquantaine de mètres, le passage s'oriente vers le nord. Après avoir fait deux ou trois pas dans ce couloir, vous entendez un bruit d'éboulement sous vos pieds et vous essayez de sauter en arrière tandis que le sol se dérobe. (Tentez votre Chance). Si vous êtes chanceux, vous avez réussi à faire un bond en arrière avant qu'un trou ne se forme. Si vous êtes malchanceux, vous n'avez pas été assez rapide et vous tombez dans une fosse de deux mètres de profondeur. Vous perdez (1 point d'ENDURANCE).
+Si vous avez de la chance, vous feriez mieux de retourner à la bifurcation (rendez-vous au 261).
+Si vous n'avez pas eu de chance, rendez-vous au 348.

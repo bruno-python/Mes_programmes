@@ -1,0 +1,12 @@
+Les deux FARFADETS ivres qui se trouvent face à vous sont de toute évidence surpris en vous voyant entrer, et ils cherchent maladroitement leurs armes en s'efforçant de s'en saisir aussi vite que possible. Vous devez les attaquer un par un. Lorsque vous lancerez les dés pour déterminer votre Force d'Attaque, vous pourrez ajouter 1 point au total obtenu, en raison de leur ivresse, et cela, à chaque assaut.
+
+COMBATTANT : FARFADET 2
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+COMBATTANT : FARFADET 3
+HABILETÉ   : 4
+ENDURANCE  : 5
+
+Si vous sortez vainqueur du combat (rendez-vous au 378)
+Si vous voulez prendre la fuite pendant la bataille (rendez-vous au 42)

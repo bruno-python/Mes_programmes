@@ -1,0 +1,8 @@
+La boîte est légère, mais quelque chose fait du bruit à l'intérieur. Vous soulevez le couvercle et un petit SERPENT jaillissant de la boîte vous mord au poignet.
+Il vous faut combattre ce Serpent.
+
+COMBATTANT : SERPENT
+HABILETÉ   : 5
+ENDURANCE  : 2
+
+Si vous parvenez à le tuer (rendez-vous au 145)

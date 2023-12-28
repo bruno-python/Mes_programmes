@@ -1,0 +1,7 @@
+Le vieil homme vous lance un regard courroucé lorsque vous entrez dans la pièce.
+Vous pouvez, si vous le souhaitez, repartir aussitôt après vous être excusé en disant que vous vous êtes perdu.
+Dans ce cas, vous sortez soit par la porte ouest (rendez-vous au 46)
+soit par la porte sud (rendez-vous au 392)
+Vous pouvez également choisir de rester et de parler au vieil homme.
+Dans cette hypothèse, vous avez le choix entre lui parler d'une manière aimable (rendez-vous au 220)
+ou exiger d'un ton péremptoire qu'il réponde à vos questions (rendez-vous au 191)

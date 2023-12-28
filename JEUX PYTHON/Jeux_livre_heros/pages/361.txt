@@ -1,0 +1,6 @@
+Vous décrochez la clé, elle porte le numéro 125.
+Mais vous n'avez pas le loisir de l'examiner très longuement, car vos poumons vous brûlent.
+Lancez deux dés.
+Si le chiffre obtenu est égal ou inférieur à votre total d'HABILETÉ, vous parvenez à traverser la pièce et à atteindre la porte nord (rendez-vous au 136)
+Si ce chiffre est supérieur à vos points d'HABILETÉ, vous ne pouvez éviter d'inspirer une bouffée de gaz.
+Vous perdez 2 points d'HABILETÉ et 3 points d'ENDURANCE, puis vous vous précipitez vers la porte (rendez-vous au 136).

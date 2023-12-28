@@ -1,0 +1,4 @@
+Vous tombez dans l'eau glacée et vous nagez frénétiquement pour essayer d'atteindre la rive sud. A votre grand étonnement, le radeau revient de lui-même à la rive sud après avoir fait demi-tour au milieu du cours d'eau.
+Vous accélérez l'allure, car les remous que vous provoquez en nageant pourraient attirer l'attention d'une quelconque créature habitant la rivière. Jetez un dé.
+Si vous faites 1, 2, 3 ou 4, vous parvenez à rejoindre la rive sain et sauf (rendez-vous au 218)
+Si vous faites un 5 ou un 6 (rendez-vous au 158)

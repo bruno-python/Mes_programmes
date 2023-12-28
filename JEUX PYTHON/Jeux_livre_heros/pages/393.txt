@@ -1,0 +1,3 @@
+Vous fouillez les poches de l'autre cadavre et vous y dénichez 8 Pièces d'Or, un vieux morceau de parchemin et une bouteille contenant un liquide, vous pouvez emporter ces objets.
+Si vous voulez lire le parchemin (rendez-vous au 212)
+Si vous voulez boire le liquide qui se trouve dans la bouteille (rendez-vous au 369)

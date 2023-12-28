@@ -1,0 +1,4 @@
+Vous êtes à la croisée de trois chemins.
+Pour aller à l'est (rendez-vous au 70)
+Pour aller à l'ouest (rendez-vous au 180)
+Pour aller au nord (rendez-vous au 329)

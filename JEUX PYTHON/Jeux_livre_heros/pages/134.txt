@@ -1,0 +1,4 @@
+Il n'y a personne dans la pièce, et il ne semble pas qu'il y ait d'autre issue. Au milieu, se trouve une table sur laquelle sont posés deux casques, l'un en bronze, l'autre en fer. Tous les deux sont à peu près à votre taille. Allez-vous essayer de vous coiffer d'un de ces casques, ou estimez-vous que c'est prendre là un risque inutile ?
+Si vous essayez le casque de bronze	(rendez-vous au 202)
+Si vous essayez le casque de fer (rendez-vous au 325)
+Si vous décidez de revenir à la bifurcation	(rendez-vous au 87)

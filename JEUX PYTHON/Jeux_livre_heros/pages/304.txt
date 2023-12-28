@@ -1,0 +1,11 @@
+Le vieil homme est furieux que vous ayez tué son chien! Ses yeux deviennent tout blancs sous l'effet de la colère.
+Il se lève lentement de son siège, et lorsqu'il se tient debout, il semble grandir et gagner en robustesse.
+Il se métamorphose sous vos yeux. Son visage et ses avant- bras se couvrent de poils. Son nez s'allonge et prend la forme d'un museau de chien. Ses dents sont soudain pointues. C'est un LOUP- GAROU, il s'avance vers vous.
+Vous ne pouvez prendre la fuite que par la porte sud située derrière vous (rendez-vous au 66)
+Si vous ne voulez pas fuir, il vous faut le combattre :
+
+COMBATTANT : LOUP-GAROU
+HABILETÉ   : 8
+ENDURANCE  : 8
+
+Si vous êtes vainqueur (rendez-vous au 203)

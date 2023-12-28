@@ -1,0 +1,9 @@
+La créature endormie se réveille en sursaut. Elle bondit et se rue sur vous, sans arme. Vous devriez pouvoir la vaincre avec votre épée, mais ses dents acérées semblent plutôt dangereuses.
+Vous avez le droit de prendre fuite par la porte (rendez-vous alors au 320) mais vous pouvez choisir de rester et de combattre le FARFADET qui vous attaque.
+
+COMBATTANT : FARFADET 1
+HABILETÉ   : 6
+ENDURANCE  : 4
+
+Si vous êtes vainqueur, vous pouvez prendre la boîte. (Rendez-vous au 147).
+

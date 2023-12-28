@@ -1,0 +1,5 @@
+Vous entrez dans une autre petite pièce vide au milieu de laquelle se trouve une fontaine. Elle n'a rien de particulièrement remarquable, il s'agit d'un poisson sculpté qui laisse échapper de sa bouche un mince jet d'eau.
+Une pancarte en bois est accrochée au poisson et un message y est inscrit. Il est écrit dans la langue des Lutins, une langue que vous ne connaissez pas très bien.
+Vous ne pouvez pas comprendre le premier mot, mais les deux autres signifient ".. .non potable" Vous avez très soif cependant. Allez-vous quand même boire à cette fontaine ?
+Si oui, (rendez-vous au 216)
+Sinon, vous passez votre chemin et vous quittez la pièce par une porte qui s'ouvre dans le mur nord (rendez-vous au 384)

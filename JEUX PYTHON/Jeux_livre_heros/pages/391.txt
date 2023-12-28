@@ -1,0 +1,5 @@
+Vous vous trouvez à l'extrémité sud d'un couloir nord-sud. Au nord, vous apercevez un passage qui part du mur est.
+Qu'allez-vous faire ?
+Suivre ce passage (rendez-vous au 52)
+Essayer de découvrir un passage secret en allant vers le nord (rendez-vous au 362)
+Prendre  la  direction  du  sud  en suivant  une  courbe qui tourne vers l'ouest (rendez-vous au 48)

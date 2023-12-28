@@ -1,0 +1,7 @@
+Vous entrez dans une grande pièce carrée. Au centre de la pièce, un vieil homme aux cheveux gris est assis à un bureau.
+Des papiers et des parchemins de toute sorte s'entassent devant lui, et il tient à la main une longue plume d'oie.
+Il est entouré de livres, il y en a des milliers alignés sur les étagères qui recouvrent les murs du sol au plafond.
+Lorsque vous entrez, il lève les yeux sur vous.
+Va-t-il vous reconnaître ?
+Si vous êtes déjà venu dans cette pièce (rendez-vous au 284)
+sinon (renez-vous au 341)

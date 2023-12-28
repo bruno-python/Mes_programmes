@@ -1,0 +1,7 @@
+Menez le combat :
+
+COMBATTANT : DRAGON
+HABILETÉ   : 10
+ENDURANCE  : 12
+
+Si vous gagnez (rendez-vous au 371)

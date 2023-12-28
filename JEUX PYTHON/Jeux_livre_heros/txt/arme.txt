@@ -1,0 +1,11 @@
+1,Casque de Bronze,0,0,0,0
+2,Casque de fer,0,0,0,0
+3,Armure de cuire,0,0,0,0
+4,Gant,0,0,0,0
+5,Epée,0,0,0,0
+6,Epée magique,0,0,0,0
+7,Bouclier en bois,0,0,0,0
+8,Bouclier rond en fer,0,0,0,0
+9,Arc,0,0,0,0
+10,L'arc à la flèche d'argent,0,0,0,0
+11,Flêche d'argent,0,0,0,0

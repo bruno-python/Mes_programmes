@@ -1,0 +1,12 @@
+Le combat s'engage!
+
+COMBATTANT : FARFADET CHEF
+HABILETÉ   : 7
+ENDURANCE  : 6
+
+COMBATTANT : SERVITEUR
+HABILETÉ   : 5
+ENDURANCE  : 3
+
+Affrontez-les un par un.
+Si vous les terrassez tous deux (rendez-vous au 21)

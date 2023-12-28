@@ -1,0 +1,4 @@
+Vous vous trouvez dans un étroit passage nord-sud.
+Au nord, il finit en cul-de-sac.
+Vous pouvez explorer cette impasse (rendez-vous au 167)
+ou n'y accorder aucune attention et revenir au croisement (rendez-vous au 359)

@@ -1,0 +1,11 @@
+le passage devant vous aboutit à une porte solide. Vous essayez d'écouter, mais vous n'entendez rien. Vous tournez alors la poignée, la porte s'ouvre et vous entrez dans la pièce. Tandis que vous y jetez un coup il oeil, vous entendez un grand cri derrière vous et vous vous retournez aussitôt : un homme aux allures de sauvage bondit sur vous en brandissant une hache d'armes.
+
+C'est un BARBARE fou, et il vous faut le combattre.
+
+COMBATTANT : BARBARE
+HABILITE   : 7
+ENDURANCE  : 6
+
+Il y a une porte dans le mur d'en face, situé au nord.
+Vous pouvez vous enfuir par là pendant le combat (rendez-vous au 189)
+Si vous avez vaincu le Barbare (rendez-vous au 273)

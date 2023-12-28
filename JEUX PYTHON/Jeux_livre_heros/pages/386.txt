@@ -1,0 +1,7 @@
+Vous montez sur le radeau et vous entreprenez de traverser la rivière en naviguant à la perche.
+L'opération se révèle difficile.
+Au milieu du cours d'eau, le radeau semble soudain s'animer à sa guise sans plus vous obéir, s'agitant dangereusement en tous sens.
+Vous vous apercevez que l'embarcation essaie de chavirer d'elle-même pour vous jeter à l'eau!
+Vous avez alors deux possibilités:
+Ou bien vous faites confiance à vos propres forces et à votre chance en essayant de tenir bon et de mener malgré tout le radeau de l'autre côté de la rivière, sur la berge nord (rendez-vous au 55)
+Ou bien vous sautez à l'eau et vous tentez de regagner à la nage la berge sud (rendez-vous au 166)

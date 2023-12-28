@@ -1,0 +1,4 @@
+La porte est fermée à clé. Vous pouvez essayer de l'enfoncer en jetant deux dés.
+Si le chiffre obtenu est égal ou inférieur à votre total d'HABILETÉ,
+la porte s'ouvre sous les coups (rendez-vous au 36)
+Si le chiffre donné par les dés est supérieur à vos points d'HABILETÉ, la porte reste fermée, vous perdez 1 point d'ENDURANCE pour vous être fait mal à l'épaule, et il vous faut poursuivre votre chemin le long du passage (rendez-vous au 314)

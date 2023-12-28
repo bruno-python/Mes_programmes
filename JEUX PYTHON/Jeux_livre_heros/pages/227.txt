@@ -1,0 +1,14 @@
+La porte s'ouvre et vous vous retrouvez dans une petite pièce enfumée.
+Quatre petits hommes d'un mètre de hauteur chacun, mais apparemment d'âge mûr, sont assis autour d'une table de bois ; ils ont la peau tannée et de longues barbes en broussaille.
+Ils jouent aux cartes en échangeant des rires, des jurons ou des plaisanteries.
+Chacun d'eux est appuyé contre le dossier d'une chaise minuscule et tire sur une longue pipe au fourneau d'argile.
+Sur la table, il y a un tas de pièces de cuivre et quatre chopes de bière. A votre entrée, ils cessent de rire et de jouer.
+Ils sont sur leur garde, mais n'ont pas l'air très dangereux.
+L'un d'eux se lève et formule quelques commentaires concernant votre manque d'éducation, car vous n'avez pas frappé avant d'entrer.
+Les trois autres approuvent d'un hochement de tête.
+Que faites-vous ?
+Vous bavardez avec eux en essayant de vous en faire des amis (rendez-vous au 131)
+Vous vous excusez, vous les saluez et vous quittez la pièce (rendez-vous au 291)
+Vous vous proposez comme partenaire pour jouer avec eux (rendez-vous au 100)
+Vous tirez votre épée et vous attaquez leur chef, celui qui s'est levé (rendez-vous au 20)
+Si vous êtes déjà venu dans cette pièce, vous la trouvez vide (rendez-vous au 291)

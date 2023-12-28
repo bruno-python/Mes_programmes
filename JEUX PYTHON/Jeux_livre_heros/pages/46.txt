@@ -1,0 +1,3 @@
+Vous êtes dans un petit passage est-ouest, avec une porte qui barre la direction de l'est.
+A l'ouest, le passage tourne vers le sud au bout de quelques mètres. Pour suivre ce tournant, (rendez-vous au 4).
+Si vous choisissez de passer la porte, (rendez-vous au 206).

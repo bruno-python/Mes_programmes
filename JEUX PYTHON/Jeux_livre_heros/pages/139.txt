@@ -1,0 +1,3 @@
+Au cours de votre aventure, vous avez trouvé différentes clés et vous avez dû conserver certaines d'entre elles. Vous avez à présent la possibilité d'utiliser trois de ces clés pour essayer d'ouvrir les serrures du coffre.
+Chaque clé porte un numéro distinct. Pour savoir si vous avez les bonnes clés, faites la somme des trois chiffres qu'elles portent. Rendez- vous ensuite au numéro que vous donne le total obtenu, et vous verrez alors si vous avez choisi les clés qui vous ouvriront le coffre.
+Si vous n'avez pas trois clés numérotées, voici venue la fin de votre aventure. Vous n'avez plus qu'à vous asseoir sur le coffre et à pleurer, car vous venez de comprendre qu'il va falloir recommencer à explorer la montagne depuis le début pour trouver les clés qui vous manquent.

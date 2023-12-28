@@ -1,0 +1,8 @@
+L'escalier est taillé dans le roc et une vingtaine de marches descendent vers un passage qui vous mène à une grande salle ouverte. Il y règne une odeur de chair putréfiée.
+L'odeur est si nauséabonde que vous êtes tenté de revenir sur vos pas.
+Trois corps sont étendus sur le sol. Vous pouvez fouiller les corps si vous le désirez, ou traverser la salle sur la pointe des pieds.
+Qu'allez-vous faire ?
+Fouiller le premier cadavre (rendez-vous au 294)
+Fouiller le deuxième cadavre (rendez-vous au 275)
+Fouiller le troisième cadavre (rendez- vous au 148)
+Traverser la salle sur la pointe des pieds (rendez-vous au 107)

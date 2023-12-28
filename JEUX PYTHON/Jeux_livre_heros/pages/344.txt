@@ -1,0 +1,10 @@
+Vous rengainez votre épée dans son fourreau et vous avancez vers le bord de la rivière.
+ Pouvez-vous y nager sans risque?
+ Il n'y a pas d'autre moyen d'atteindre la rive nord, apparemment, aucun danger immédiat ne semble devoir vous menacer, ni dans l'eau ni sur la berge.
+ Vous remarquez soudain l'éclat d'une épée qui repose au fond de l'eau à quelques pas de vous.
+ Il vous est facile de la ramasser en pataugeant quelque peu dans la rivière.
+ Cette épée est légère, beaucoup plus maniable que la vôtre et sa lame est bien effilée.
+ Cette arme magnifique vous donnera 1 point d'HABILETÉ supplémentaire chaque fois que vous l'utiliserez.
+ Bientôt, une voix mystérieuse qui semble vous parler à l'intérieur de vous-même vous conseille de jeter votre ancienne épée dans la rivière.
+ Si vous suivez ce conseil (rendez-vous au 56)
+ Si, au contraire, vous préférez conserver les deux épées (rendez-vous au 153)

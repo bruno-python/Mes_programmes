@@ -1,0 +1,8 @@
+La Goule a un soubresaut et meurt à vos pieds.
+Vous fouillez son cadavre, mais vous ne trouvez rien d'intéressant.
+Une paire de boucles d'oreilles, valant environ 1 Pièce d'Or, traîne dans une de ses poches.
+Vous pouvez les prendre. Si vous n'avez pas encore fouillé le premier corps, vous le faites maintenant, et vous trouvez 5 Pièces d'Or que vous pouvez également conserver.
+Si vous le désirez, vous avez le droit de vous reposer et de prendre un Repas en ce lieu.
+ Pour avoir tué la Goule, vous gagnez 2 points de CHANCE.
+ Ensuite, vous aurez le choix entre aller au nord (rendez-vous au 120)
+ Ou fouiller le deuxième cadavre (rendez-vous au 393)

@@ -1,0 +1,9 @@
+L'une des clés fonctionne, mais pas les deux autres.
+Tandis que vous essayez malgré tout de les faire tourner dans les serrures, vous entendez deux petits déclics suivis de deux bruits métalliques : deux minuscules fléchettes viennent de jaillir du coffre, pointées dans votre direction.
+Vous faites un bon en arrière pour essayer de les éviter, mais votre tête heurte le mur derrière vous et vous vous effondrez sur le sol, inconscient. (Tentez votre Chance)
+Si vous êtes chanceux, les fléchettes vous ratent et vous revenez à vous avec un fort mal de tête. Vous perdez 2 points d'ENDURANCE.
+Si vous êtes malchanceux, les fléchettes vous atteignent et vous ne vous réveillerez plus jamais.
+Si vous avez eu de la chance, vous pouvez essayer d'autres clés (rappelez-vous que l'une de ces clés est la bonne).
+Faites la somme des chiffres des nouvelles clés (rendez-vous au numéro obtenu)
+Si vous avez essayé toutes les combinaisons possibles avec les clés qui sont en votre possession, il ne vous reste plus qu'à vous enfouir le visage dans les mains et à pleurer, car vous étiez tout près de réussir mais il va falloir recommencer à zéro.
+Retournez à l'entrée de la montagne, et pensez cette fois à chercher des clés au cours de vos pérégrinations !

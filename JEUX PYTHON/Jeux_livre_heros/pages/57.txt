@@ -1,0 +1,4 @@
+Lorsque vous entrez dans la caverne, vous entendez des bruits de pas sonores derrière vous, des pieds qui se posent lourdement sur le sol rocailleux. Vous vous accroupissez près de l'entrée, dans une petite anfractuosité de rocher. Les pas se font de plus en plus pesants et vous voyez un OGRE immense entrer dans la caverne ! Il mesure plus de deux mètres de haut, et est vêtu de vêtements grossiers taillés dans la peau d'un quelconque animal. Il tient à la main une grosse massue de bois. Vous avez le choix entre :
+L'attaquer quand il entre (Rendez-vous au 16)
+Essayer de vous glisser au-dehors sans qu'il vous remarque (Rendez-vous au 2)
+Essayer de détourner son attention en jetant quelque chose à l'autre bout de la caverne (Rendez-vous au 119)

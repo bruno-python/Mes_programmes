@@ -1,0 +1,2 @@
+1, "Crucifix en argent (4 pièces d'or)", 0, 0, 0, 0
+2, "Pierre précieuse (50 pièces d'or)", 0, 0, 0, 0

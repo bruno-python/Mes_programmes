@@ -1,0 +1,6 @@
+Vous vous trouvez dans un passage nord-sud.
+Au nord, vous apercevez un autre couloir qui bifurque vers l'est (rendez-vous au 52)
+Au sud, le passage tourne vers l'ouest.
+Vous pouvez vous rendre à l'extrémité sud du passage (rendez-vous au 391)
+Dans le mur ouest, en face de vous, il y a une porte secrète.
+Si vous désirez la franchir (rendez-vous au 175)

@@ -1,0 +1,46 @@
+from PyQt5.QtWidgets import QMainWindow         => fenêtre principale
+from PyQt5.QtWidgets import QWidget             =>
+
+from PyQt5.QtWidgets import QLabel              => étiquette
+from PyQt5.QtWidgets import QPushButton         => bouton
+from PyQt5.QtWidgets import QLineEdit           => champ de texte
+from PyQt5.QtWidgets import QSpinBox            => défilement avec une flêche
+from PyQt5.QtWidgets import QCheckBox           => case à cocher
+from PyQt5.QtWidgets import QListWidgetItem     =>
+from PyQt5.QtWidgets import QShortcut           => raccourcis
+from PyQt5.QtWidgets import QSlider             => barre de réglage
+from PyQt5.QtWidgets import QProgressBar        => barre de progression
+from PyQt5.QtWidgets import QLCDNumber          => affiche un nombre au format LCD
+from PyQt5.QtWidgets import QDateTimeEdit       => gere la date et l'heure
+from PyQt5.QtWidgets import QComboBox           => boîte combinée
+
+from PyQt5.QtWidgets import QHBoxLayout         => aligne horizontalement
+from PyQt5.QtWidgets import QVBoxLayout         => aligne verticalement
+from PyQt5.QtWidgets import QGridLayout         => grille pour placer les widgets
+from PyQt5.QtWidgets import QFormLayout         => formulaire
+
+--------------------------------------------
+from PyQt5.QtCore import Qt,
+from PyQt5.QtCore import QObject,
+from PyQt5.QtCore import pyqtSignal
+from PyQt5.QtCore import QTimer
+
+--------------------------------------------
+from PyQt5.QtGui import QIcon                   => inserer un icon
+from PyQt5.QtGui import QKeySequence            => touche clavier
+from PyQt5.QtGui import QPixmap                 => afficher les images
+
+##################################################
+CONVERSTION DU C++ VERS PYTHON PyQt5:
+
+Qt::SomeValue    ---> Qt.SomeValue()
+object.exec()    ---> object.exec_()
+object.print()   ---> object.print_()
+
+
+les doubles deux-points (::) ainsi que les flèches (->) sont à remplacer par un point (.)
+supprimer les mots clés new
+remplacer | par or
+remplacer && par and
+adapter les appels de méthodes à la syntaxe python
+##################################################

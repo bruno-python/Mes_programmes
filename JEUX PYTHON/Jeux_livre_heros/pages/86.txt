@@ -1,0 +1,9 @@
+D'énormes mâchoires s'ouvrent devant vous en un long bâillement. D'après leur taille le CROCODILE à qui elles appartiennent et vers lequel vous nagez doit mesurer au moins trois mètres de long. L'animal fouette de sa queue la surface de l'eau et glisse vers vous. Vous devez lancer deux assauts contre lui.
+
+COMBATTANT : CROCODILE
+HABILETÉ   : 7
+ENDURANCE  : 6
+
+Votre combat attire vers vous une sorte de « turbulence » que vous aviez remarquée précédemment et qui maintenant se déplace dans votre direction. Vous observez ce remous du coin de l'oeil et il vous faut prendre une décision. Si vous estimez que le Crocodile est à votre merci, vous pouvez poursuivre le combat. Si vous gagnez, (rendez-vous au 259)
+Sinon, vous pouvez essayer d'occuper votre adversaire en ayant le faible espoir que le mystérieux visiteur qui s'approche vous aidera d'une quelconque manière.
+Dans ce cas, lancez un nouvel assaut (rendez-vous au 350)

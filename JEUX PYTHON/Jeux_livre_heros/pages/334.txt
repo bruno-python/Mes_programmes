@@ -1,0 +1,12 @@
+Tandis que vous lui parlez, le vieil homme se lève. "Mon Dieu, mon Dieu, un étranger! s'exclame-t-il, mais entrez donc, cher Monsieur, le magasin est ouvert.
+Que puis-je vous proposer?
+Qu'aimeriez-vous acheter?
+Qu'est-ce qui vous ferait plaisir?
+Dans quelle direction allez-vous ?
+Au nord?
+A l'ouest? »
+Vous racontez alors votre histoire au vieil homme.
+Il vous écoute avec attention, puis répond: "Je vois, je vois, dans ce cas, vous allez sans nul doute avoir besoin d'une de mes Chandelles Bleues. Ce sera 20 Pièces d'Or, s'il vous plaît. En espèces, si ça ne vous dérange pas. Je sais, je sais, c'est cher, mais tout est cher de nos jours, n'est-il pas vrai ?
+Il n'y a pas si longtemps, elles valaient 5 Pièces d'Or, mais vous savez à quel point le prix de la cire a augmenté depuis la Longue et Sombre Nuit, ah! mais non, suis-je bête, vous n'êtes pas au courant, puisque vous ne venez pas de là-bas, de toute façon, croyez-moi, je peux vous garantir que le prix en vaut la chandelle, vous pourriez bien en avoir besoin plus tôt que vous ne croyez..."
+Si vous décidez d'acheter une chandelle, payez-en le prix.
+Peu à peu, le bavardage du vieil homme vous fatigue, aussi quittez-vous la pièce pour aller au nord (rendez-vous au 292)

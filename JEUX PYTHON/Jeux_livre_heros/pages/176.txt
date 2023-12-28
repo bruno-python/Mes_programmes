@@ -1,0 +1,4 @@
+Tandis que vous marchez le long du passage, il s'élargit de plus en plus et, finalement, vous arrivez à l'entrée d'une caverne, une sorte de grotte naturelle s'enfonçant dans le roc.
+Vous jetez un coup d'oeil dans l'obscurité, apparemment, la caverne fait environ trente mètres de long et ne comporte aucune issue visible.
+Voulez-vous pénétrer dans cette caverne (rendez-vous au 270)
+ou préférez-vous revenir vers la bifurcation (rendez-vous au 375)

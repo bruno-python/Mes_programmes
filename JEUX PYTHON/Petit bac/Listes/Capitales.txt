@@ -1,0 +1,166 @@
+Abou Dhabi	Émirats arabes unis
+Abuja	Nigeria
+Accra	Ghana
+Achgabat	Turkménistan
+Addis Abeba	Éthiopie
+Alger	Algérie
+Amman	Jordanie
+Amsterdam	Pays-Bas
+Andorre-la-Vieille	Andorre
+Ankara	Turquie
+Antananarivo	Madagascar
+Apia	Samoa
+Asmara	Érythrée
+Astana Almaty	Kazakhstan
+Asunción	Paraguay
+Athènes	Grèce
+Bagdad	Irak
+Bakou	Azerbaïdjan
+Bamako	Mali
+Bangkok	Thaïlande
+Bangui	Centrafrique
+Belgrade	Serbie
+Belmopa	Belize
+Berlin	Allemagne
+Berne	Suisse
+Beyrouth	Liban
+Bichkek	Kirghizstan
+Bissau	Guinée-Bissau
+Bogota	Colombie
+Brasilia	Brésil
+Bratislava	Slovaquie
+Bridgetown	Barbade
+Bruxelles	Belgique
+Bucarest	Roumanie
+Budapest	Hongrie
+Buenos Aires	Argentine
+Bujumbura	Burundi
+Camberra	Australie
+Caracas	Venezuela
+Chisinau	Moldavie
+Colombo	Sri Lanka
+Conakry	Guinée
+Copenhague	Danemark
+Cotonou	Bénin
+Daccan	Bangladesh
+Dakar	Sénégal
+Damas	Syrie
+Dar es Salam	Tanzanie
+Djibouti	Djibouti
+Doha	Qatar
+Douchanbé	Tadjikistan
+Dublin	Irlande
+Erevan	Arménie
+Freetown	Sierra Leone
+Funafuti	Tuvalu
+Gaborone	Botswana
+Georgetown	Guyana
+Guatemala	Guatemala
+Hanoï	Viêt Nam
+Harare	Zimbabwe
+Helsinki	Finlande
+Islamabad	Pakistan
+Jakarta	Indonésie
+Kaboul	Afghanistan
+Kampala	Ouganda
+Katmandou	Népal
+Khartoum	Soudan
+Kiev	Ukraine
+Kigali	Rwanda
+Kingston	Jamaïque
+Kinshasa	République démocratique du Congo
+Koweït	Koweït
+Kuala Lumpur	Malaisie
+La Havane	Cuba
+La Paz	Bolivie
+La Valette	Malte
+Le Caire	Égypte
+Lilongwe	Malawi
+Lima	Pérou
+Lisbonne	Portugal
+Ljubljana	Slovénie
+Lomé	Togo
+Londres	Royaume-Uni
+Lusaka	Zambie
+Luxembourg	Luxembourg
+Madrid	Espagne
+Malabo	Guinée équatoriale
+Malé	Maldives
+Managua	Nicaragua
+Manama	Bahreïn
+Manille	Philippines
+Maputo	Mozambique
+Mascate	Oman
+Mbabane	Swaziland
+Mexico	Mexique
+Minsk	Biélorussie
+Mogadiscio	Somalie
+Monaco	Monaco
+Monrovia	Libéria
+Montevideo	Uruguay
+Moroni	Comores
+Moscou	Russie
+Nairobi	Kenya
+Nassau	Bahamas
+Ndjamena	Tchad
+New Delhi	Inde
+Niamey	Niger
+Nicosie	Chypre
+Nouakchott	Mauritanie
+Nuku’alofa	Tonga
+Oslo	Norvège
+Ottawa	Canada
+Ouagadougou	Burkina Faso
+Oulan-Bator	Mongolie
+Panama	Panama
+Paramaribo	Suriname
+Paris	France
+Pékin	Chine
+Phnom Penh	Cambodge
+Podgorica	Monténégro
+Port Moresby	Papouasie-Nouvelle-Guinée
+Port of Spain	Trinité-et-Tobago
+Port-au-Prince	Haïti
+Port-Vila	Vanuatu
+Prague	République tchèque
+Pretoria	Afrique du Sud
+Pyongyang	Corée du Nord
+Quito	Équateur
+Rabat	Maroc
+Rangoun	Birmanie
+Reykjavik	Islande
+Riga	Lettonie
+Riyad	Arabie saoudite
+Rome	Italie
+Saint-Domingue	République dominicaine
+San José	Costa Rica
+San Salvador	Salvador
+Sanaa	Yémen
+Santiago	Chili
+Sao Tomé	Sao Tomé-et-Principe
+Sarajevo	Bosnie-Herzégovine
+Séoul	Corée du Sud
+Singapour	Singapour
+Skopje	Macédoine
+Sofia	Bulgarie
+Stockholm	Suède
+Suva	Fidji
+Tallinn	Estonie
+Tbilissi	Géorgie
+Tegucigalpa	Honduras
+Téhéran	Iran
+Tirana	Albanie
+Tokyo	Japon
+Tripoli	Libye
+Tunis	Tunisie
+Vaduz	Liechtenstein
+Varsovie	Pologne
+Victoria	Seychelles
+Vienne	Autriche
+Vientiane	Laos
+Vilnius	Lituanie
+Washington	États-Unis
+Wellington	Nouvelle-Zélande
+Yamoussoukro	Côte d’Ivoire
+Yaoundé	Cameroun
+Zagreb	Croatie

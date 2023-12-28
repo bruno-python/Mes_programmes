@@ -1,0 +1,7 @@
+C'est un adversaire redoutable : c'est un ÊTRE ! Il est massif, puissant et malfaisant. Le combat s'engage :
+
+COMBATTANT : L'ÊTRE
+HABILETÉ   : 9
+ENDURANCE  : 6
+
+Vous combattez avec votre épée. Lorsque vous lui aurez infligé une première blessure, (rendez-vous au 310).

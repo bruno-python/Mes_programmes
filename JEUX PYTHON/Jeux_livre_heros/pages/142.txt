@@ -1,0 +1,9 @@
+D'une voix tonitruante, il lance : "Pauvre imbécile! Crois-tu que tu peux te mesurer à mon pouvoir en utilisant cette arme dérisoire ?"
+Vous continuez cependant d'avancer avec détermination. "Si c'est une simple rossée que tu cherches, étranger, je te donnerai la dernière de ta vie!" ajoute-t-il, puis il disparaît et reparaît derrière vous.
+Vous faites volte-face pour l'affronter, et le combat s'engage. Mais c'est une lutte à mort. Cette fois, il vous sera impossible de prendre la fuite.
+
+COMBATTANT : SORCIER
+HABILETÉ   : 11
+ENDURANCE  : 18
+
+Si vous êtes vainqueur (rendez-vous au 396)

@@ -1,0 +1,6 @@
+Vous vous réveillez avec des élancements dans la tête et vous jetez un regard autour de vous. La pièce fait environ huit mètres carrés et des portes s'ouvrent au nord et au sud. On vous a jeté dans le coin sud- ouest. Quatre hommes se tiennent debout, immobiles, au centre de la pièce. Il semble tout au moins que ce sont des hommes. Leur peau a une teinte gris-verdâtre. Leurs vêtements sont en lambeaux et tous les quatre fixent le plafond d'un regard vide. L'un tient une massue, un autre une faux, le troisième une hache et le dernier une pioche. Ils vous ignorent complètement.
+Autour de la pièce, il y a des outils de paysans (fourches, manches de haches, bâtons en pointe, etc.) qui peuvent servir d'armes, ainsi que deux boucliers et plusieurs tonneaux. Dans le coin nord-est, un cadavre tient une épée dans une main et un bouclier dans l'autre. Vous vous passez la main sur le visage pour voir si vous ne saignez pas à votre grand soulagement, vous ne découvrez aucune trace de sang. Mais lorsque vos mains ont bougé, les étranges créatures au centre de la pièce ont baissé les yeux vers vous. Que faites-vous ?
+Vous essayez de leur parler (rendez-vous au 268)
+Vous vous relevez d'un bond et vous les attaquez avec votre épée (rendez-vous au 282)
+Vous tentez tant bien que mal de vous enfuir par la porte sud (rendez- vous au 13)
+

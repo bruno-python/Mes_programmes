@@ -1,0 +1,4 @@
+Vous fouillez dans votre sac à dos à la recherche du bâton, mais vous vous apercevez qu'il s'est cassé en deux ! Il s'est brisé pendant vos pérégrinations.
+Que décidez-vous ?
+Vous tirez votre épée et vous partez à l'attaque (rendez-vous au 142)
+Vous essayez de trouver autre chose dans votre sac à dos (rendez-vous au 105)

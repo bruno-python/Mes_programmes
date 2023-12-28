@@ -1,0 +1,8 @@
+Vous tirez votre épée du fourreau; l'Ogre vous a entendu et se prépare à l'attaque :
+
+COMBATTANT : OGRE
+HABILETÉ   : 8
+ENDURANCE  : 10)
+
+Si vous êtes vainqueur, 5rendez-vous au 50°.
+Après le deuxième assaut, vous pouvez fuir le long du corridor. (Rendez-vous au 269.)

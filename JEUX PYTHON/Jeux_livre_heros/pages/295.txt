@@ -1,0 +1,4 @@
+Vous ne trouvez pas de passage secret.
+En revanche, vos investigations ont attiré une créature, vous entendez en effet des pas, dans le couloir, qui viennent vers vous.
+Pour savoir quel genre de monstre s'approche ainsi (rendez-vous au 161)
+Il vous faudra le combattre et si vous êtes vainqueur, vous pourrez poursuivre votre chemin le long du passage (rendez-vous au 48) Notez bien ce chiffre "48", car lorsque vous serez au "161", il ne vous sera donné aucune indication concernant votre prochaine étape en cas de victoire, et si vous ne vous en souvenez pas, vous ne saurez plus où aller.

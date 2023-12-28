@@ -1,0 +1,3 @@
+Vous êtes dans un passage nord-sud.
+Pour aller au nord, (rendez-vous au 354).
+Pour le sud, (rendez-vous au 52).

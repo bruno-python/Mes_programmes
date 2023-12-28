@@ -1,0 +1,4 @@
+Le passage forme un virage a droite en direction du nord. Vous vous approchez prudemment d'une guerite qui se trouve au coin et en jetant un coup d'oeil a l'interieur, vous apercevez une etrange creature qui ressemble a un Lutin, vetue d'une armure de cuir et endormie a son poste. Vous essayez de passer devant sur la pointe des pieds.
+(Tentez votre Chance)
+Si vous etes chanceux, le Lutin ne se reveille pas et continue a ronfler bruyamment (rendez-vous au 301)
+Si vous etes malchanceux, vous faites en marchant un bruit qui le reveille, et il ouvre les yeux (rendez-vous au 248)

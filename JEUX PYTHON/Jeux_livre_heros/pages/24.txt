@@ -1,0 +1,5 @@
+Après avoir subi votre troisième blessure, vous remarquez que votre force décline. Vous perdez 1 point d'HABILETÉ.
+Vous en déduisez qu'il s'agit, là encore, d'un pouvoir magique de la repoussante créature et vous vous sentez parcouru d'un frisson de panique.
+Allez-vous continuer ou prendre la fuite ? Si vous choisissez de vous enfuir, inscrivez votre pénalité, et (rendez-vous au 360) en vous échappant par la porte située au nord.
+Sinon, le combat continue. Si vous avez vaincu la créature, (rendez-vous au 135).
+Mais désormais, à chaque troisième blessure que vous inflige le monstre, vous perdez 1 point d'HABILETÉ.

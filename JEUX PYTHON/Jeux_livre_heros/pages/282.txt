@@ -1,0 +1,25 @@
+Les 4 créatures qui avancent vers vous d'un pas traînant sont des ZOMBIES complètement décervelés.
+Leur regard vide indique que leur volonté est sans doute contrôlée par une puissance extérieure.
+Vous êtes trop étourdi pour avoir des pensées claires, mais il vous faut agir vite.
+Un premier Zombie se tient devant vous et brandit sa massue.
+Il ne vous reste plus qu'à le combattre.
+
+COMBATTANT : ZOMBIE CHEF
+HABILETÉ   : 7
+ENDURANCE  : 6
+
+Si vous terrassez le premier Zombie, prenez 2 points de CHANCE et affrontez les trois autres (vous les combattrez un par un) :
+
+COMBATTANT : ZOMBIE AVEC FAUX
+HABILETÉ   : 6
+ENDURANCE  : 6
+
+COMBATTANT : ZOMBIE AVEC PIOCHE
+HABILETÉ   : 6
+ENDURANCE  : 6
+
+COMBATTANT : ZOMBIE AVEC HACHE
+HABILETÉ   : 6
+ENDURANCE  : 5
+
+Si vous êtes vainqueur 5rendez-vous au 115°

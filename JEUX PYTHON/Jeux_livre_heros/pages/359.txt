@@ -1,0 +1,5 @@
+Vous vous trouvez à une croisée de chemins.
+Pour aller au nord (rendez-vous au 190)
+Pour aller au sud (rendez-vous au 94)
+Pour aller à l'est (rendez-vous au 121)
+Pour aller à l'ouest (rendez-vous au 385)

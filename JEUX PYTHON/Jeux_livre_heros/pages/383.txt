@@ -1,0 +1,6 @@
+Au-dessus de la porte, une pancarte indique : "Hangar à Bateaux" La porte est solidement verrouillée, mais une petite fenêtre munie de barreaux permet de regarder à l'intérieur.
+Vous apercevez alors un groupe de Squelettes qui travaillent à la construction d'un bateau.
+Leurs gestes sont rapides et saccadés et on croirait voir bouger des insectes.
+Si vous possédez une clé portant l'inscription "Hangar à Bateaux" (rendez-vous au 80)
+Si vous voulez tenter d'enfoncer la porte (rendez-vous au 264)
+Si vous préférez retourner sur la berge de la rivière et prendre un autre chemin (rendez-vous au 129)

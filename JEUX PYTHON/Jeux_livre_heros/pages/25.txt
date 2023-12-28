@@ -1,0 +1,4 @@
+Les peintures sont des portraits d'hommes. Un frisson vous parcourt l'échiné lorsque vous lisez sur une plaque le nom de celui qui se trouve sur le mur ouest - il s'agit de Zagor, le Sorcier dont vous cherchez le trésor. En regardant ce portrait, vous vous rendez compte que vous vous mesurez à un adversaire redoutable. Vous avez le sentiment d'être observé et vous remarquez les yeux perçants qui suivent chacun de vos mouvements. Vous vous sentez attiré vers ce portrait et votre peur s'accroît.
+Vous perdez un point d'HABILETÉ.
+Avez-vous le courage d'essayer de combattre le Sorcier. Vous pouvez soit sortir tout droit par la porte nord (rendez-vous au 90), mais il s'agira alors d'une fuite
+, soit chercher dans votre sac à dos une arme que vous pourriez utiliser pour combattre le pouvoir du Sorcier et dans ce cas, (rendez-vous au 340).

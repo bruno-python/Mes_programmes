@@ -1,0 +1,9 @@
+Vous vous mettez en marche, et vous vous retrouvez au milieu d'un passage nord-sud.
+Il y a une porte dans le mur ouest et, face à la porte, un couloir part vers l'est.
+En direction du nord, vous apercevez une porte à quelques mètres de distance.
+Au sud vous distinguez un croisement.
+Où déciderez-vous d'aller ?
+À la porte du mur ouest (rendez-vous au 157)
+A la porte située au nord (rendez-vous au 392)
+À l'est	(rendez-vous au 299)
+Au sud (rendez-vous au 238)

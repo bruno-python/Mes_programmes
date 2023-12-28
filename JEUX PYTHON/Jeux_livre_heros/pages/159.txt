@@ -1,0 +1,8 @@
+Vous ouvrez la porte et vous découvrez une grande pièce qui est la salle à manger de ces mêmes créatures au visage constellé de verrues que vous  reconnaissez  à  présent.
+Assis  autour  d'une  grande  table, cinq FARFADETS sont occupés à avaler goulûment une soupe de gésiers de rats, ils en bavent de bonheur.
+En même temps, ils se disputent âprement pour savoir qui aura droit à ronger les os de rats qui restent au fond de la marmite de soupe.
+Trop absorbés par cette grave question, ils ne vous voient pas entrer. Vous pouvez vous montrer plein de hardiesse et les attaquer (rendez-vous au 365)
+ou estimer au contraire qu'il n'y a aucun avantage à affronter cinq de ces créatures en même temps, dans ce cas, vous essayez de prendre la fuite.
+Si vous souhaitez quitter la pièce (Tentez votre Chance).
+Si vous êtes chanceux, vous arrivez à sortir sans qu'ils vous remarquent (rendez-vous au 237), et vous n'aurez aucune pénalité de fuite.
+Si vous êtes malchanceux, ils vous voient. Préparez-vous alors à la bagarre (rendez-vous au 365)

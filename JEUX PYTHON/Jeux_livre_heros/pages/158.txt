@@ -1,0 +1,9 @@
+La surface de l'eau, autour de vous, se ride et s'agite comme si une main imaginaire jetait des cailloux invisibles dans la rivière. Votre gorge se serre soudain lorsque vous découvrez qu'il s'agit de... PIRANHAS ! Et vous sentez déjà leurs dents pointues s'enfoncer dans votre chair. Vous gesticulez, vous leur donner des coups de pied, vous vous défendez avec toutes les armes dont vous disposez en essayant de les tenir à distance assez longtemps pour pouvoir rejoindre la rive sud. Combattez les Piranhas comme s'il s'agissait d'une seule et même créature.
+
+COMBATTANT : PIRANHAS 3
+HABILETÉ   : 5
+ENDURANCE  : 5
+
+Menez cette bataille à son terme.
+Si vous gagnez, vous réussissez à sortir de l'eau et à vous allonger, tout pantelant, sur la rive sud. Vous pouvez alors prendre un repas (rendez-vous au 218)
+

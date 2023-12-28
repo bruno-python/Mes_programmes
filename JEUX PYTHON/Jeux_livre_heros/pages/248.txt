@@ -1,0 +1,8 @@
+La créature qui vient de s'éveiller est un FARFADET ! Il se met péniblement debout, et attrape une corde qui doit probablement actionner une sonnette d'alarme.
+Il vous faut l'attaquer vite.
+
+COMBATTANT : FARFADET 5
+HABILETÉ   : 6
+ENDURANCE  : 5
+
+Si vous êtes vainqueur, vous pouvez continuer votre chemin le long du passage (rendez-vous au 301)

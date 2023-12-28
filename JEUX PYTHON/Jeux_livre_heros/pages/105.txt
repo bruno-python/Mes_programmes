@@ -1,0 +1,8 @@
+Vous fouillez dans votre sac à dos. Qu'y a-t-il à l'intérieur ?
+Vous pouvez essayer d'utiliser un quelconque des accessoires suivants si vous l'avez sur votre Liste d'Équipement :
+
+Potion d'Invisibilité (Rendez-vous au 39)
+L'Œil du Cyclope (Rendez-vous au 382)
+Un morceau de Fromage (Rendez-vous au 368)
+L'Arc à la Flèche d'Argent (Rendez-vous au 194)
+Un Bâton en forme de Y (Rendez-vous au 215)

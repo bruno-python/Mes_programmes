@@ -1,0 +1,4 @@
+Vous sentez une pierre bouger, et derrière, vous trouvez un levier.
+Allez-vous tirer le levier ou le laisser et retourner au croisement ?
+Si vous	tirez le levier, (rendez-vous au 252).
+Si vous	retournez au croisement, (rendez-vous au 359).
