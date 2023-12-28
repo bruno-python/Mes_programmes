@@ -1,0 +1,3 @@
+@echo off
+echo Creation de la liste des mise a jour des librairies pip
+python -m pip list -o >> liste_lib_pip.txt
